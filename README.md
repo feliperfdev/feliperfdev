@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I intend to join an scientific research at Machine Learning and Computer Vision area
-- 🌱 I’m learning Python for Machine Learning and Computer Vision
+- 🤖 I intend to join an scientific research at Machine Learning and Computer Vision area
+- 👨‍💻 I’m learning Python for Machine Learning and Computer Vision
 - 📚 Student at CENTRO UNIVERSITÁRIO SENAI CIMATEC
 - ⚡ Love basketball 🏀
 
