@@ -7,3 +7,4 @@
 
 Find me:
 - [LinkedIn](https://www.linkedin.com/in/felipe-azevedo-ribeiro/)
+- [Rocketseat] (https://app.rocketseat.com.br/me/felipe-azevedo-ribeiro)
