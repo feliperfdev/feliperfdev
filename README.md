@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🤖 I intend to join an scientific research at Machine Learning and Computer Vision field
-- 👨‍💻 I’m learning Python for Machine Learning and Computer Vision
-- 📚 Student at CENTRO UNIVERSITÁRIO SENAI CIMATEC
+- 🤖 I intend to join an scientific research at Machine Learning, Data Science or Computer Vision field
+- 👨‍💻 I’m learning Python for Machine Learning, Data Science and Computer Vision
+- 📚 Control and Automation Engineering Student at CENTRO UNIVERSITÁRIO SENAI CIMATEC
 - ⚡ Love basketball 🏀
 
 Find me:
