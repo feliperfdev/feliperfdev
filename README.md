@@ -9,4 +9,4 @@
 
 Find me:
 
-- ![Linkedin: felipe-azevedo-ribeiro](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-azevedo-ribeiro/)
+- [Linkedin](https://www.linkedin.com/in/felipe-azevedo-ribeiro/)
