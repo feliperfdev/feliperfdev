@@ -10,3 +10,4 @@
 Find me:
 
 - [Linkedin](https://www.linkedin.com/in/felipe-azevedo-ribeiro/)
+- [Instagram](https://www.instagram.com/engstudy.felipe/)
