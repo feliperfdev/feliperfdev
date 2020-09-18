@@ -7,9 +7,10 @@
 - 📚 Control and Automation Engineering Student at CENTRO UNIVERSITÁRIO SENAI CIMATEC
 - ⚡ Love basketball 🏀
 
- ![Python](https://img.shields.io/badge/-Python-%233776AB?logo=python&logoColor=white)
- ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
- ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![C++](https://img.shields.io/badge/C++-gray.svg?style=flat&logo=c%2B%2B)
+![Python](https://img.shields.io/badge/-Python-%233776AB?logo=python&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 Find me:
 
