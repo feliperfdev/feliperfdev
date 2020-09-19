@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=feliper2002&hide=issues&count_private=true&show_icons=true&theme=algolia&line)
+<img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feliper2002&count_private=true&layout=compact" />
 
 - 🤖 I intend to join an scientific research at Machine Learning, Data Science or Computer Vision field
 - 👨‍💻 I’m learning Python for Machine Learning, Data Science and Computer Vision
