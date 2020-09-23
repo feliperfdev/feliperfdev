@@ -20,9 +20,11 @@
 - 📚 Control and Automation Engineering Student at CENTRO UNIVERSITÁRIO SENAI CIMATEC
 - ⚡ Love basketball 🏀
 
+### Skills Técnicas
+
 #### Línguagens
-![C++](https://img.shields.io/badge/C++-gray.svg?style=flat&logo=c%2B%2B)
-![Python](https://img.shields.io/badge/-Python-%233776AB?logo=python&logoColor=white)
+<img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
+<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 
 #### Machine Learning / Deep Learning
 <img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
@@ -31,7 +33,8 @@
 #### Tecnologias
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 #### Arquiteturas
