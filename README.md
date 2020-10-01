@@ -35,5 +35,4 @@
 ![CleanCode](https://img.shields.io/badge/Clean%20Code-gray.svg)
 
 #### Outros
-<img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" /> <p align="left">
-  <img src="https://github.com/feliper2002/feliper2002/blob/master/Felipe.png" width="300" title="Eu">
+<img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" /> 
