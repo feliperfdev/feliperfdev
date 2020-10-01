@@ -4,7 +4,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-azevedo-ribeiro/)](https://www.linkedin.com/in/felipe-azevedo-ribeiro/)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=feliper2002&hide=issues&count_private=true&show_icons=true&theme=algolia&line)
-<img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feliper2002&count_private=true&layout=compact" />
+<img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feliper2002&count_private=true&layout=compact" /> <p align="right">
+  <img src="https://github.com/feliper2002/feliper2002/blob/master/Felipe.png" width="300" title="Eu">
 
 [PT/BR]
 - 🤖 Pretendo fazer Iniciação Científica nas áreas de Aprendizado de Máquina, Ciência de Dados e Visão Computacional
