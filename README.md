@@ -6,6 +6,7 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=feliper2002&hide=issues&count_private=true&show_icons=true&theme=algolia&line) &nbsp; <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feliper2002&count_private=true&layout=compact" /> 
 
 - 🤖 Pretendo fazer Iniciação Científica nas áreas de Aprendizado de Máquina, Ciência de Dados e Visão Computacional
+- 📱 Começando a gostar de Desenvolvimento Mobile
 - 👨‍💻 Estou aprendendo Python para Aprendizado de Máquina, Ciência de Dados e Visão Computacional
 - ☕ Também estudando C++ e Dart
 - 📚 Estudante de Engenharia de Controle e Automação no CENTRO UNIVERSITÁRIO SENAI CIMATEC
