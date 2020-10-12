@@ -7,7 +7,7 @@
 
 - 🤖 Pretendo fazer Iniciação Científica nas áreas de Aprendizado de Máquina, Ciência de Dados e Visão Computacional
 - 👨‍💻 Estou aprendendo Python para Aprendizado de Máquina, Ciência de Dados e Visão Computacional
-- ☕ Também estudando C/C++
+- ☕ Também estudando C++ e Dart
 - 📚 Estudante de Engenharia de Controle e Automação no CENTRO UNIVERSITÁRIO SENAI CIMATEC
 - ⚡ Amante do basquete 🏀
 
