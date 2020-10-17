@@ -1,7 +1,4 @@
-### Hi there 👋
-
-[![Rocketseat](https://img.shields.io/badge/🚀-Rocketseat-662D91)](https://app.rocketseat.com.br/me/felipe-azevedo-ribeiro)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-azevedo-ribeiro/)](https://www.linkedin.com/in/felipe-azevedo-ribeiro/)
+<img src="https://github.com/feliper2002/feliper2002/blob/master/FELIPE%20RIBEIRO.png" />
 
 <center>
 <table>
