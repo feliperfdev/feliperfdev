@@ -3,7 +3,14 @@
 [![Rocketseat](https://img.shields.io/badge/🚀-Rocketseat-662D91)](https://app.rocketseat.com.br/me/felipe-azevedo-ribeiro)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-azevedo-ribeiro/)](https://www.linkedin.com/in/felipe-azevedo-ribeiro/)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=feliper2002&hide=issues&count_private=true&show_icons=true&theme=algolia&line) &nbsp; <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feliper2002&count_private=true&layout=compact" /> 
+<center>
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feliper2002&hide=html&layout=compact&theme=algolia&line" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=feliper2002&theme=algolia&line"/></td>
+    </tr>   
+</table>
+</center>    
 
 - 📱 Começando a gostar de Desenvolvimento Mobile (Flutter)
 - 👨‍💻 Estou aprendendo Python para Aprendizado de Máquina, Ciência de Dados e Visão Computacional
