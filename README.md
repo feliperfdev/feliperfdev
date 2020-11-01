@@ -9,9 +9,9 @@
 </table>
 </center>    
 
-- 📱 Começando a gostar de Desenvolvimento Mobile (Flutter)
+- 📱 Começando no Desenvolvimento Mobile com Flutter
 - 👨‍💻 Estou aprendendo Python para Aprendizado de Máquina, Ciência de Dados e Visão Computacional
-- ☕ Também estudando C++ e Dart
+- ☕ Estudando C++ e Dart
 - 📚 Estudante de Engenharia de Controle e Automação no CENTRO UNIVERSITÁRIO SENAI CIMATEC
 - ⚡ Amante do basquete 🏀
 
