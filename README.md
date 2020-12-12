@@ -20,14 +20,16 @@
 #### Tecnologias, Frameworks e Plataformas
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" /> <img src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
 
-#### Projetos
-##### Participei / Fiz
-[Banco Imobiliário - C++](https://github.com/DhellionFena/banco-imobiliario) <p>
-[JoKenPo - Flutter](https://github.com/feliper2002/Projetos-Flutter/tree/main/jokenpo_app) <p>
-[Freelance Hour Calculator - Flutter](https://github.com/feliper2002/Projetos-Flutter/tree/main/freelance_hour_calculator) <p>
-[Frases do Dia - Flutter](https://github.com/feliper2002/Projetos-Flutter/tree/main/frases_do_dia_app_oficial) <p>
-[ATM Consultoria - Flutter](https://github.com/feliper2002/Projetos-Flutter/tree/main/atm_consultoria) <p>
+#### Projetos da Faculdade
+[Banco Imobiliário](https://github.com/DhellionFena/banco-imobiliario) - C++ <p>
+
+#### Projetos pessoais
+
+[JoKenPo](https://github.com/feliper2002/Projetos-Flutter/tree/main/jokenpo_app) - Flutter <p>
+[Freelance Hour Calculator](https://github.com/feliper2002/Projetos-Flutter/tree/main/freelance_hour_calculator) - Flutter <p>
+[Frases do Dia](https://github.com/feliper2002/Projetos-Flutter/tree/main/frases_do_dia_app_oficial) - Flutter <p>
+[ATM Consultoria](https://github.com/feliper2002/Projetos-Flutter/tree/main/atm_consultoria) - Flutter <p>
 
 ##### Em andamento
-[Pokédex - Flutter](https://github.com/feliper2002/pokedex-flutter-api) <p>
-[Crud Simples - Flutter](https://github.com/feliper2002/crud-simples-flutter)
+[Pokédex](https://github.com/feliper2002/pokedex-flutter-api) - Flutter <p>
+[Crud Simples](https://github.com/feliper2002/crud-simples-flutter) - Flutter
