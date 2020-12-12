@@ -25,8 +25,8 @@
 [Banco Imobiliário - C++](https://github.com/DhellionFena/banco-imobiliario) <p>
 [JoKenPo - Flutter](https://github.com/feliper2002/Projetos-Flutter/tree/main/jokenpo_app) <p>
 [Freelance Hour Calculator - Flutter](https://github.com/feliper2002/Projetos-Flutter/tree/main/freelance_hour_calculator) <p>
-[Frases do Dia](https://github.com/feliper2002/Projetos-Flutter/tree/main/frases_do_dia_app_oficial) <p>
-[ATM Consultoria](https://github.com/feliper2002/Projetos-Flutter/tree/main/atm_consultoria) <p>
+[Frases do Dia - Flutter](https://github.com/feliper2002/Projetos-Flutter/tree/main/frases_do_dia_app_oficial) <p>
+[ATM Consultoria - Flutter](https://github.com/feliper2002/Projetos-Flutter/tree/main/atm_consultoria) <p>
 
 ##### Em andamento
 [Pokédex - Flutter](https://github.com/feliper2002/pokedex-flutter-api) <p>
