@@ -9,7 +9,7 @@
 </table>
 </center>    
 
-- 📱 Começando no Desenvolvimento Mobile com Flutter
+- 📱 Estudando Desenvolvimento Mobile com Flutter desde outubro de 2020
 - ☕ Estudando C++ e Dart
 - 📚 Estudante de Engenharia de Controle e Automação no CENTRO UNIVERSITÁRIO SENAI CIMATEC
 - ⚡ Amante do basquete 🏀
@@ -19,3 +19,15 @@
 
 #### Tecnologias, Frameworks e Plataformas
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" /> <img src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
+
+#### Projetos
+##### Participei / Fiz
+[Banco Imobiliário - C++](https://github.com/DhellionFena/banco-imobiliario) <p>
+[JoKenPo - Flutter](https://github.com/feliper2002/Projetos-Flutter/tree/main/jokenpo_app) <p>
+[Freelance Hour Calculator - Flutter](https://github.com/feliper2002/Projetos-Flutter/tree/main/freelance_hour_calculator) <p>
+[Frases do Dia](https://github.com/feliper2002/Projetos-Flutter/tree/main/frases_do_dia_app_oficial) <p>
+[ATM Consultoria](https://github.com/feliper2002/Projetos-Flutter/tree/main/atm_consultoria) <p>
+
+##### Em andamento
+[Pokédex - Flutter](https://github.com/feliper2002/pokedex-flutter-api) <p>
+[Crud Simples - Flutter](https://github.com/feliper2002/crud-simples-flutter)
