@@ -23,13 +23,7 @@
 #### Projetos da Faculdade
 [Banco Imobiliário](https://github.com/DhellionFena/banco-imobiliario) - C++ <p>
 
-#### Projetos pessoais
+#### Portfólio - Site
 
-[JoKenPo](https://github.com/feliper2002/Projetos-Flutter/tree/main/jokenpo_app) - Flutter <p>
-[Freelance Hour Calculator](https://github.com/feliper2002/Projetos-Flutter/tree/main/freelance_hour_calculator) - Flutter <p>
-[Frases do Dia](https://github.com/feliper2002/Projetos-Flutter/tree/main/frases_do_dia_app_oficial) - Flutter <p>
-[ATM Consultoria](https://github.com/feliper2002/Projetos-Flutter/tree/main/atm_consultoria) - Flutter <p>
-
-##### Em andamento
-[Pokédex](https://github.com/feliper2002/pokedex-flutter-api) - Flutter <p>
-[Crud Simples](https://github.com/feliper2002/crud-simples-flutter) - Flutter
+[Portfólio Dev](https://github.com/feliper2002/portfolio_dev)
+(Link em breve)
