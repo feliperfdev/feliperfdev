@@ -20,9 +20,6 @@
 #### Tecnologias, Frameworks e Plataformas
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />
 
-#### Projetos da Faculdade
-[Banco Imobiliário](https://github.com/DhellionFena/banco-imobiliario) - C++ <p>
-
 #### Portfólio - Site
 
 [Portfólio Dev](https://github.com/feliper2002/portfolio_dev)
