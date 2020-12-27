@@ -10,7 +10,7 @@
 </center>    
 
 - 📱 Estudando Desenvolvimento Mobile com Flutter desde outubro de 2020
-- ☕ Estudando C++ e Dart
+- ☕ Estudando Dart
 - 📚 Estudante de Engenharia de Controle e Automação no CENTRO UNIVERSITÁRIO SENAI CIMATEC
 - ⚡ Amante do basquete 🏀
 
