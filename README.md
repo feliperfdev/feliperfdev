@@ -12,7 +12,7 @@
 - 📱 Estudando Desenvolvimento Mobile com Flutter desde outubro de 2020
 - 🌐 Inglês técnico e intermediário
 - ☕ Estudando Dart
-- 📚 Estudante de Engenharia de Controle e Automação no CENTRO UNIVERSITÁRIO SENAI CIMATEC
+- 📚 Estudante de Engenharia de Computação no CENTRO UNIVERSITÁRIO SENAI CIMATEC
 - ⚡ Amante do basquete 🏀
 
 #### Línguagens
