@@ -1,5 +1,3 @@
-<img src="assets/feliperibeiro.png" />
-
 <center>
 <table>
     <tr>
@@ -9,9 +7,23 @@
 </table>
 </center>
 
-- 📱 Estudando Desenvolvimento Mobile com Flutter desde outubro de 2020
+<div align='center'>
+    <b> Entre em contato! </b> <p>
+    <a href='https://twitter.com/feliper_dev'>
+        <img src='assets/twitter-logo-4.png' width=35>
+    </a><a href='https://www.linkedin.com/in/felipe-azevedo-ribeiro/'>
+        <img src='assets/lnd.png' width=30>
+    </a><a href='https://feliper.dev/#/'>
+        <img src='assets/html.webp' width=30>
+    </a><a href='https://www.instagram.com/felipe.developer/'>
+        <img src='assets/ig.png' width=30>
+    </a>
+
+</div>
+
+- 📱 Estudando Desenvolvimento Mobile com [Flutter](https://flutter.dev) desde outubro de 2020
 - 🌐 Inglês técnico e intermediário
-- ☕ Estudando Dart
+- ☕ Estudando [Dart](https://dart.dev)
 - 📚 Estudante de Engenharia de Computação no CENTRO UNIVERSITÁRIO SENAI CIMATEC
 - ⚡ Amante do basquete 🏀
 
