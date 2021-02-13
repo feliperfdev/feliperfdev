@@ -1,4 +1,6 @@
-## ${Hello.dev} 👋
+```bash
+${Hello.dev} 👋
+```
 
 <div align='center'>
     <b> Entre em contato! </b> <p>
@@ -26,7 +28,7 @@
 - 🌐 Inglês técnico e intermediário
 - ☕ Estudando [**Dart**](https://dart.dev)
 - 📚 Estudante de Engenharia de Computação no CENTRO UNIVERSITÁRIO SENAI CIMATEC
-- ⚡ Amante do basquete 🏀
+- ⚡ Amante do basquete 🏀 e da leitura 📚
 
 #### **Línguagens**, **Tecnologias**, **Frameworks** e **Plataformas**
 
