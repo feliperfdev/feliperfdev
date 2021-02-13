@@ -1,30 +1,25 @@
-```bash
-${Hello.dev} 👋
-```
+## **${Hello.dev}** **👋**
 
 <div align='center'>
-    <b> Entre em contato! </b> <p>
+    <h3> <b> 🌎 Entre em contato! </b> </h3> <p>
     <a href='https://twitter.com/feliper_dev'>
-        <img src='assets/twitter-logo-4.png' width=35>
-    </a><a href='https://www.linkedin.com/in/felipe-azevedo-ribeiro/'>
+        <img src='assets/twitter-logo-4.png' width=35 title='Meu twitter'>
+    </a><a href='https://www.linkedin.com/in/felipe-azevedo-ribeiro/' title='Meu linkedin'>
         <img src='assets/lnd.png' width=30>
     </a><a href='https://feliper.dev/#/'>
-        <img src='assets/html.webp' width=30>
+        <img src='assets/html.webp' width=30 title='Meu portfólio web'>
     </a><a href='https://www.instagram.com/felipe.developer/'>
-        <img src='assets/ig.png' width=30>
+        <img src='assets/ig.png' width=30 title='Meu instagram'>
     </a>
 </div>
 
-<center>
-<table>
+<div align="left">
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feliper2002&hide=javascript,swift,html&layout=compact&theme=algolia&line" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=feliper2002&theme=algolia&line"/></td>
+        <td><img width="380px" src="https://github-readme-stats.vercel.app/api?username=feliper2002&theme=algolia&line"/></td>
     </tr>   
-</table>
-</center>
+</div>
 
-- 📱 Estudando Desenvolvimento Mobile com [**Flutter**](https://flutter.dev) desde outubro de 2020
+- 📱 Estudando **Desenvolvimento Mobile** com [**Flutter**](https://flutter.dev) desde outubro de 2020
 - 🌐 Inglês técnico e intermediário
 - ☕ Estudando [**Dart**](https://dart.dev)
 - 📚 Estudante de Engenharia de Computação no CENTRO UNIVERSITÁRIO SENAI CIMATEC
