@@ -1,5 +1,18 @@
 ## ${Hello.dev} 👋
 
+<div align='center'>
+    <b> Entre em contato! </b> <p>
+    <a href='https://twitter.com/feliper_dev'>
+        <img src='assets/twitter-logo-4.png' width=35>
+    </a><a href='https://www.linkedin.com/in/felipe-azevedo-ribeiro/'>
+        <img src='assets/lnd.png' width=30>
+    </a><a href='https://feliper.dev/#/'>
+        <img src='assets/html.webp' width=30>
+    </a><a href='https://www.instagram.com/felipe.developer/'>
+        <img src='assets/ig.png' width=30>
+    </a>
+</div>
+
 <center>
 <table>
     <tr>
@@ -22,16 +35,3 @@
 #### **Stacks principais**
 
 <img src="assets/flutter-logo.png" width=25 title='Flutter'/>
-
-<div align='center'>
-    <b> Entre em contato! </b> <p>
-    <a href='https://twitter.com/feliper_dev'>
-        <img src='assets/twitter-logo-4.png' width=35>
-    </a><a href='https://www.linkedin.com/in/felipe-azevedo-ribeiro/'>
-        <img src='assets/lnd.png' width=30>
-    </a><a href='https://feliper.dev/#/'>
-        <img src='assets/html.webp' width=30>
-    </a><a href='https://www.instagram.com/felipe.developer/'>
-        <img src='assets/ig.png' width=30>
-    </a>
-</div>
