@@ -27,8 +27,8 @@
 
 #### **Línguagens**, **Tecnologias**, **Frameworks** e **Plataformas**
 
-<img src="assets/c.png" width=25 title='C'/> <img src="assets/cpp.png" width=30 title='C++'/> <img src="assets/python.png" width=25 title='Python'/> <img src='assets/dart-logo.png' width=25 title='Dart'><img src="assets/git.png" width=25 title='Git'/> <img src="assets/github.png" width=25 title='Github'/> <img src="assets/gitlab.png" width=25 title='Gitlab'> <img src='assets/vscode.png' width=25 title='VS Code'> <img src="assets/jupyter.png" width=24 title='Jupyter Notebook' /> <img src="assets/flutter-logo.png" width=25 title='Flutter'/> <img src='assets/mobx.png' width=30 title='MobX'>
+<img src="assets/c.png" width=25 title='C'/> <img src="assets/cpp.png" width=30 title='C++'/> <img src="assets/python.png" width=25 title='Python'/> <img src='assets/dart-logo.png' width=25 title='Dart'><img src="assets/git.png" width=25 title='Git'/> <img src="assets/github.png" width=25 title='Github'/> <img src="assets/gitlab.png" width=25 title='Gitlab'> <img src='assets/vscode.png' width=25 title='VS Code'> <img src="assets/flutter-logo.png" width=25 title='Flutter'/> <img src='assets/mobx.png' width=30 title='MobX'> <img src='assets/java.png' width=25 title='Java'>
 
 #### **Stacks principais**
 
-<img src="assets/flutter-logo.png" width=25 title='Flutter'/>
+<img src='assets/dart-logo.png' width=25 title='Dart'><img src="assets/flutter-logo.png" width=25 title='Flutter'/>
