@@ -29,3 +29,8 @@
 #### **Stacks principais**
 
 <img src='assets/dart-logo.png' width=25 title='Dart'><img src="assets/flutter-logo.png" width=25 title='Flutter'/>
+    
+#### **Me acompanhe também**
+<a href="https://www.twitch.tv/feliper_dev">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
+</a>
