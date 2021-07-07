@@ -2,11 +2,11 @@
 
 <div align='center'>
     <h3> <b> 🌎 Entre em contato! </b> </h3> <p>
-    <a href='https://twitter.com/feliper_dev'>
+    <a href=''>
         <img src='assets/twitter-logo-4.png' width=35 title='Meu twitter'>
     </a><a href='https://www.linkedin.com/in/felipe-azevedo-ribeiro/' title='Meu linkedin'>
         <img src='assets/lnd.png' width=30>
-    </a><a href='https://feliper.dev/#/'>
+    </a><a href=''>
         <img src='assets/html.webp' width=30 title='Meu portfólio web'>
 </div>
 
