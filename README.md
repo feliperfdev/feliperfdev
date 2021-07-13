@@ -2,11 +2,11 @@
 
 <div align='center'>
     <h3> <b> 🌎 Entre em contato! </b> </h3> <p>
-    <a href=''>
+    <a href='twitter.com/feliper_dev'>
         <img src='assets/twitter-logo-4.png' width=35 title='Meu twitter'>
     </a><a href='https://www.linkedin.com/in/felipe-azevedo-ribeiro/' title='Meu linkedin'>
         <img src='assets/lnd.png' width=30>
-    </a><a href=''>
+    </a><a href='https://feliper.dev'>
         <img src='assets/html.webp' width=30 title='Meu portfólio web'>
 </div>
 
@@ -33,6 +33,6 @@
 <img src='assets/dart-logo.png' width=25 title='Dart'><img src="assets/flutter-logo.png" width=25 title='Flutter'/>
     
 #### **Me acompanhe também**
-<a href="">
+<a href="twitch.tv/feliper_dev">
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
 </a>
