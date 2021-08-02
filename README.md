@@ -36,3 +36,6 @@
 <a href="https://twitch.tv/feliper_dev">
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
 </a>
+<a href="https://dev.to/feliper2002">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white">
+</a>
