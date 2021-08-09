@@ -19,14 +19,14 @@
 - 📱 Estudando **Desenvolvimento Mobile** com [**Flutter**](https://flutter.dev) desde outubro de 2020
     - ☕ Estudando [**Dart**](https://dart.dev)
     - 📱 Experiência como Desenvolvedor Mobile Flutter
-    - 🔋 Experiência com Git, Clean Architecture, conexão de API com gRPC, Testes unitários
-- 🌐 Inglês técnico e intermediário
+    - 🔋 Experiência com Git, Clean Architecture, conexão de API com gRPC, conexão com API Rest, Testes unitários
+- 🌐 Inglês técnico e avançado
 - 📚 Estudante de Engenharia de Computação no CENTRO UNIVERSITÁRIO SENAI CIMATEC
 - ⚡ Amante do basquete 🏀 e da leitura 📚
 
 #### **Línguagens**, **Tecnologias**, **Frameworks** e **Plataformas**
 
-<img src='assets/dart-logo.png' width=25 title='Dart'> <img src="assets/flutter-logo.png" width=25 title='Flutter'/> <img src='assets/mobx.png' width=30 title='MobX'> <img src="assets/git.png" width=25 title='Git'/> <img src="assets/github.png" width=25 title='Github'/> <img src="assets/gitlab.png" width=25 title='Gitlab'> <img src='assets/vscode.png' width=25 title='VS Code'> <img src='assets/figma.png' width=18 height=25 title='Figma'>
+<img src='assets/dart-logo.png' width=25 title='Dart'> <img src="assets/flutter-logo.png" width=25 title='Flutter'/> <img src='assets/mobx.png' width=30 title='MobX'> <img src="assets/git.png" width=25 title='Git'/> <img src="assets/github.png" width=25 title='Github'/> <img src="assets/gitlab.png" width=25 title='Gitlab'> <img src='assets/vscode.png' width=25 title='VS Code'> <img src='assets/figma.png' width=18 height=25 title='Figma'> <img src='assets/firebase.png' width=25 height=25>
 
 #### **Me acompanhe também**
 <a href="https://twitch.tv/feliper_dev">
