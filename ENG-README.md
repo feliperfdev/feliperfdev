@@ -19,7 +19,7 @@
 - 📱 Studing **Mobile Development** com [**Flutter**](https://flutter.dev) desde outubro de 2020
     - ☕ Studing [**Dart**](https://dart.dev)
     - 📱 Experience with Mobile Aplications Development with Flutter
-    - 🔋 Experience with Git, Clean Architecture, API conection with gRPC, Rest APIs conection, unit tests.
+    - 🔋 Experience with Git, Clean Architecture, API conection with gRPC, Rest APIs conection, unit tests and MVVM Architecture
 - 🌐 Advanced and technical english
 - 📚 Computer Engineering Degree at CENTRO UNIVERSITÁRIO SENAI CIMATEC
 - ⚡ Basketball passionate 🏀 and reading lover 📚
