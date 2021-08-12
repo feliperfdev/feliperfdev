@@ -19,7 +19,7 @@
 - 📱 Estudando **Desenvolvimento Mobile** com [**Flutter**](https://flutter.dev) desde outubro de 2020
     - ☕ Estudando [**Dart**](https://dart.dev)
     - 📱 Experiência como Desenvolvedor Mobile Flutter
-    - 🔋 Experiência com Git, Clean Architecture, conexão de API com gRPC, conexão com API Rest, Testes unitários
+    - 🔋 Experiência com Git, Clean Architecture, conexão de API com gRPC, conexão com API Rest, Testes unitários e Arquitetura MVVM
 - 🌐 Inglês técnico e avançado
 - 📚 Estudante de Engenharia de Computação no CENTRO UNIVERSITÁRIO SENAI CIMATEC
 - ⚡ Amante do basquete 🏀 e da leitura 📚
