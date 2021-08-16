@@ -17,9 +17,12 @@
     </tr>   
 </div>
 
+<img src='assets/developer.png' height=250 align='right'>
+
 ☕📱 Ask me about [**Dart**](https://dart.dev) and [**Flutter**](https://flutter.dev) <p>
 ⚡🌴 Basketball 🏀 and reading 📚 passionate <p>
 📌 Living in Salvador Bahia, Brazil
+
 
 #### 👩🏻‍💻 **Languages**, **Technologies**, **Frameworks** e **Platforms**
 
