@@ -1,13 +1,14 @@
 ## **${Hello.dev}** **👋**
 
 <div align='center'>
-    <h3> <b> 🌎 Entre em contato! </b> </h3> <p>
+    <h3> <b> 🌎 Contact-me! </b> </h3> <p>
     <a href='https://twitter.com/feliper_dev'>
-        <img src='assets/twitter-logo-4.png' width=35 title='Meu twitter'>
-    </a><a href='https://www.linkedin.com/in/felipe-azevedo-ribeiro/' title='Meu linkedin'>
-        <img src='assets/lnd.png' width=30>
-    </a><a href='https://feliper.dev'>
-        <img src='assets/html.webp' width=30 title='Meu portfólio web'>
+        <img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white' title='My twitter'>
+    </a><a href='https://www.linkedin.com/in/felipe-azevedo-ribeiro/' title='My linkedin'>
+        <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' >
+    </a>
+    <a href='https://feliper.dev'>
+        <img src='https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white' title='My website portfolio'></a>
 </div>
 
 <div align="left">
@@ -16,26 +17,20 @@
     </tr>   
 </div>
 
-- 📱 Estudando **Desenvolvimento Mobile** com [**Flutter**](https://flutter.dev) desde outubro de 2020
-    - ☕ Estudando [**Dart**](https://dart.dev)
-    - 📱 Experiência como Desenvolvedor Mobile Flutter
-    - 🔋 Experiência com Git, Clean Architecture, conexão de API com gRPC, conexão com API Rest, Testes unitários e Arquitetura MVVM
-- 🌐 Inglês técnico e avançado
-- 📚 Estudante de Engenharia de Computação no CENTRO UNIVERSITÁRIO SENAI CIMATEC
-- ⚡ Amante do basquete 🏀 e da leitura 📚
+☕📱 Ask me about [**Dart**](https://dart.dev) and [**Flutter**](https://flutter.dev) <p>
+⚡🌴 Basketball 🏀 and reading 📚 passionate <p>
+📌 Living in Salvador Bahia, Brazil
 
-#### **Línguagens**, **Tecnologias**, **Frameworks** e **Plataformas**
+#### 👩🏻‍💻 **Languages**, **Technologies**, **Frameworks** e **Platforms**
 
-<img src='assets/dart-logo.png' width=25 title='Dart'> <img src="assets/flutter-logo.png" width=25 title='Flutter'/> <img src='assets/mobx.png' width=30 title='MobX'> <img src="assets/git.png" width=25 title='Git'/> <img src="assets/github.png" width=25 title='Github'/> <img src="assets/gitlab.png" width=25 title='Gitlab'> <img src='assets/vscode.png' width=25 title='VS Code'> <img src='assets/figma.png' width=18 height=25 title='Figma'> <img src='assets/firebase.png' width=25 height=25>
+<img src='assets/dart-logo.png' width=25 title='Dart'> <img src="assets/flutter-logo.png" width=25 title='Flutter'/> <img src='assets/mobx.png' width=26 title='MobX'> <img src="assets/git.png" width=25 title='Git'/> <img src="assets/github.png" width=25 title='Github'/> <img src="assets/gitlab.png" width=25 title='Gitlab'> <img src='assets/vscode.png' width=25 title='VS Code'> <img src='assets/figma.png' width=16 height=24 title='Figma'> <img src='assets/firebase.png' width=25 height=25>
+<p>
+<img src='https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white'> <img src='https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white'>
 
-#### **Me acompanhe também**
+#### **Follow me at**
 <a href="https://twitch.tv/feliper_dev">
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
 </a>
 <a href="https://dev.to/feliper2002">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white">
 </a>
-
----
-
-### [English version - README](ENG-README.md)
