@@ -17,7 +17,7 @@
     </tr>   
 </div>
 
-<img src='assets/developer.png' height=250 align='right'>
+<img src='assets/chibi.png' height=300 align='right'>
 
 ☕📱 Ask me about [**Dart**](https://dart.dev) and [**Flutter**](https://flutter.dev) <p>
 ⚡🌴 Basketball 🏀 and reading 📚 passionate <p>
