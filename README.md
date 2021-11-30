@@ -19,9 +19,10 @@
 
 <img src='assets/chibi.png' height=300 align='right'>
 
+
 ☕📱 Ask me about [**Dart**](https://dart.dev) and [**Flutter**](https://flutter.dev) <p>
-⚡🌴 Basketball 🏀 and reading 📚 passionate <p>
-📌 Living in Salvador Bahia, Brazil
+📌 Living in Salvador Bahia, Brazil <p>
+💜🌴 Love anime, basketball, reading 📚 and drawing 🎨<p>
 
 
 #### 👩🏻‍💻 **Languages**, **Technologies**, **Frameworks** e **Platforms**
@@ -30,7 +31,7 @@
 <p>
 <img src='https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white'> <img src='https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white'>
 
-#### **Follow me at**
+#### **🌍 Follow me at**
 <a href="https://twitch.tv/feliper_dev">
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
 </a>
@@ -38,7 +39,7 @@
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white">
 </a>
     
-#### 🏆 GitHub Profile Trophy (@feliper2002):
+#### **🏆 GitHub Profile Trophy (@feliper2002):**
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=feliper2002&row=2&column=10&theme=default&frame=true&no-bg=true"/>
