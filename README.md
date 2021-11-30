@@ -27,7 +27,7 @@
 
 #### 👩🏻‍💻 **Languages**, **Technologies**, **Frameworks** e **Platforms**
 
-<img src='assets/dart-logo.png' width=25 title='Dart'> <img src="assets/flutter-logo.png" width=25 title='Flutter'/> <img src='assets/mobx.png' width=26 title='MobX'> <img src="assets/git.png" width=25 title='Git'/> <img src="assets/github.png" width=25 title='Github'/> <img src="assets/gitlab.png" width=25 title='Gitlab'> <img src='assets/vscode.png' width=25 title='VS Code'> <img src='assets/figma.png' width=16 height=24 title='Figma'> <img src='assets/firebase.png' width=25 height=25>
+<img src='assets/dart-logo.png' width=25 title='Dart'> <img src="assets/flutter-logo.png" width=25 title='Flutter'/> <img src='assets/mobx.png' width=26 title='MobX'> <img src="assets/git.png" width=25 title='Git'/> <img src="assets/github.png" width=25 title='Github'/> <img src="assets/gitlab.png" width=25 title='Gitlab'> <img src='assets/vscode.png' width=25 title='VS Code'> <img src='assets/figma.png' width=16 height=24 title='Figma'> <img src='assets/firebase.png' width=25 height=25 title='Firebase'>
 <p>
 <img src='https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white'> <img src='https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white'>
 
@@ -42,5 +42,5 @@
 #### **🏆 GitHub Profile Trophy (@feliper2002):**
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=feliper2002&row=2&column=10&theme=default&frame=true&no-bg=true"/>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=feliper2002&row=2&column=10&theme=dracula&frame=true&no-bg=true"/>
 </a>
