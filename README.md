@@ -24,10 +24,10 @@
 📌 Living in Salvador Bahia, Brazil <p>
 💜🌴 Love anime, basketball, reading 📚 and drawing 🎨<p>
     
- 📱👩🏻‍💻 **I'm currently working as a Flutter developer at F-Team**
+ 📱👩🏻‍💻 I'm currently working as a Flutter developer at F-Team
 
 
-#### 👩🏻‍💻 **Languages**, **Technologies**, **Frameworks** e **Platforms**
+#### 💻 **Languages**, **Technologies**, **Frameworks** e **Platforms**
 
 <img src='assets/dart-logo.png' width=25 title='Dart'> <img src="assets/flutter-logo.png" width=25 title='Flutter'/> <img src='assets/mobx.png' width=26 title='MobX'> <img src="assets/git.png" width=25 title='Git'/> <img src="assets/github.png" width=25 title='Github'/> <img src="assets/gitlab.png" width=25 title='Gitlab'> <img src='assets/vscode.png' width=25 title='VS Code'> <img src='assets/figma.png' width=16 height=24 title='Figma'> <img src='assets/firebase.png' width=25 height=25 title='Firebase'>
 <p>
