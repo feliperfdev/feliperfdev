@@ -23,6 +23,8 @@
 ☕📱 Ask me about [**Dart**](https://dart.dev) and [**Flutter**](https://flutter.dev) <p>
 📌 Living in Salvador Bahia, Brazil <p>
 💜🌴 Love anime, basketball, reading 📚 and drawing 🎨<p>
+    
+ 📱👩🏻‍💻 **I'm currently working as a Flutter developer at F-Team**
 
 
 #### 👩🏻‍💻 **Languages**, **Technologies**, **Frameworks** e **Platforms**
