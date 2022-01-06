@@ -7,7 +7,7 @@
     </a><a href='https://www.linkedin.com/in/felipe-azevedo-ribeiro/' title='My linkedin'>
         <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' >
     </a>
-    <a href='https://feliper.dev'>
+    <a href=''>
         <img src='https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white' title='My website portfolio'></a>
 </div>
 
