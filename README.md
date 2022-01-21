@@ -24,7 +24,7 @@
 📌 Living in Salvador Bahia, Brazil <p>
 💜🌴 Love anime, basketball, reading 📚 and drawing 🎨<p>
     
- 📱👩🏻‍💻 I'm currently working as a Flutter developer at F-Team
+ 📱👩🏻‍💻 I'm currently working as a Mobile developer at F-Team
 
 
 #### 💻 **Languages**, **Technologies**, **Frameworks** and **Platforms**
