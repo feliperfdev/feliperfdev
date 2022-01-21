@@ -20,11 +20,15 @@
 <img src='assets/chibi.png' height=300 align='right'>
 
 
-☕📱 Ask me about [**Dart**](https://dart.dev) and [**Flutter**](https://flutter.dev) <p>
 📌 Living in Salvador Bahia, Brazil <p>
-💜🌴 Love anime, basketball, reading 📚 and drawing 🎨<p>
+
+💜🌴 Love anime, basketball, games 🎮👾, reading 📚 and drawing 🎨<p>
+
+☕📱 Ask me about [**Dart**](https://dart.dev) and [**Flutter**](https://flutter.dev) <p>
     
  📱👩🏻‍💻 I'm currently working as a Mobile developer at F-Team
+
+ 🌱 Currently learning BLoC, Triple, unit tests, Clean Archtecture and Design Patterns.
 
 
 #### 💻 **Languages**, **Technologies**, **Frameworks** and **Platforms**
