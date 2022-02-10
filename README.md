@@ -22,7 +22,7 @@
 
 📌 Living in Salvador Bahia, Brazil <p>
 
-💜🌴 Love anime, basketball, games 🎮👾, reading 📚 and drawing 🎨<p>
+💜🌴 Love anime, K-Pop, J-Pop, Geek culture, basketball, games 🎮👾, reading 📚 and drawing 🎨<p>
 
 ☕📱 Ask me about [**Dart**](https://dart.dev) and [**Flutter**](https://flutter.dev) <p>
     
@@ -30,6 +30,7 @@
 
  🌱 Currently learning BLoC, Triple, unit tests, Clean Archtecture and Design Patterns.
 
+---
 
 #### 💻 **Languages**, **Technologies**, **Frameworks** and **Platforms**
 
