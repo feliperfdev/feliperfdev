@@ -25,8 +25,6 @@
 💜🌴 Love anime, K-Pop, J-Pop, Geek culture, basketball, games 🎮👾, reading 📚 and drawing 🎨<p>
 
 ☕📱 Ask me about [**Dart**](https://dart.dev) and [**Flutter**](https://flutter.dev) <p>
-    
- 📱👩🏻‍💻 I'm currently working as a Junior Mobile developer at F-Team
 
  🌱 Currently learning BLoC, Triple, unit tests, Clean Archtecture and Design Patterns.
 
