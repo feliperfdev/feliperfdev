@@ -46,7 +46,13 @@
 <a href="https://dev.to/feliper2002">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white">
 </a>
-    
+
+<p>
+
+#### **Let's learn something new?**
+
+- [Flutter4Noobs](https://github.com/feliper2002/flutter4noobs/)
+
 #### **🏆 GitHub Profile Trophy (@feliper2002):**
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
