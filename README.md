@@ -17,7 +17,7 @@
     </tr>   
 </div>
 
-<img src='https://files.catbox.moe/2735s3.png' height=450 align='right'>
+<img src='assets/chibi.png' height=300 align='right'>
 
 
 📌 Living in Salvador Bahia, Brazil <p>
