@@ -61,6 +61,6 @@
 
 ### **Wanna be mentored?**
     
-    [Contact-me!](mailto:feliper.dev@gmail.com)
-    [Calendly](https://calendly.com/feliper-dev)
+[Contact-me!](mailto:feliper.dev@gmail.com) <p>
+[Calendly](https://calendly.com/feliper-dev)
     
