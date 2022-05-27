@@ -26,8 +26,6 @@
 
 ☕📱 Ask me about [**Dart**](https://dart.dev) and [**Flutter**](https://flutter.dev) <p>
 
-
-
 🌱 Currently learning BLoC, Triple, Unit Tests, Clean Archtecture and Design Patterns.
 
 ---
