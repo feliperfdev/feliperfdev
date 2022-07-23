@@ -19,14 +19,19 @@
 
 <img src='assets/chibi.png' height=300 align='right'>
 
+- ***About me***
 
 📌 Living in Salvador Bahia, Brazil <p>
 
 💜🌴 Love anime, K-Pop, J-Pop, Geek culture, basketball, games 🎮👾, reading 📚 and drawing 🎨<p>
 
+---
+
+- ***Tech things***
+
 ☕📱 Ask me about [**Dart**](https://dart.dev) and [**Flutter**](https://flutter.dev) <p>
 
-🌱 Currently learning BLoC, Triple, Unit Tests, SOLID, Clean Archtecture and Design Patterns.
+🌱 Currently learning State Management Patterns (BLoC, State, SSP), Design Patterns and Clean Architecture.
 
 ---
 
