@@ -4,7 +4,7 @@
     <h3> <b> 🌎 Contact-me! </b> </h3> <p>
     <a href='https://twitter.com/feliper_dev'>
         <img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white' title='My twitter'>
-    </a><a href='https://www.linkedin.com/in/felipe-azevedo-ribeiro/' title='My linkedin'>
+    </a><a href='https://www.linkedin.com/in/feliperdev/' title='My linkedin'>
         <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' >
     </a>
     <a href=''>
