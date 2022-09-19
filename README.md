@@ -61,3 +61,4 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=feliper2002&row=2&column=10&theme=dracula&frame=true&no-bg=true"/>
 </a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=feliper2002&theme=vue">
