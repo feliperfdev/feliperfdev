@@ -31,7 +31,7 @@
 
 ☕📱 Ask me about [**Dart**](https://dart.dev) and [**Flutter**](https://flutter.dev) <p>
 
-🌱 Currently learning State Management Patterns (BLoC, State, SSP), Design Patterns and Clean Architecture.
+🌱 Currently learning State Management Patterns (BLoC, State, SSP), Design Patterns and Clean Architecture, MySQL and Oracle databases, CI/CD and Docker.
 
 ---
 
