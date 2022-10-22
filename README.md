@@ -8,7 +8,7 @@
         <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' >
     </a>
     <a href=''>
-        <img src='https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white' title='My website portfolio'></a>
+        <img src='https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white' title='My website portfolio with Flutter'></a>
 </div>
 
 <div align="left">
@@ -37,10 +37,14 @@
 
 #### 💻 **Languages**, **Technologies**, **Frameworks** and **Platforms**
 
-<img src='assets/dart-logo.png' width=25 title='Dart'> <img src="assets/flutter-logo.png" width=25 title='Flutter'/> <img src='assets/kotlin.png' width=20 height=20 title='Kotlin'> <img src="assets/git.png" width=25 title='Git'/> <img src="assets/github.png" width=25 title='Github'/> <img src="assets/gitlab.png" width=25 title='Gitlab'> <img src='assets/vscode.png' width=25 title='VS Code'> <img src='assets/figma.png' width=16 height=24 title='Figma'> <img src='assets/firebase.png' width=25 height=25 title='Firebase'> <img src='assets/sqlite.png' width=25 height=25 title='SQLite'> <img src='assets/mysql.png' width=20 height=30 title='MySQL'>
+<img src='assets/vscode.png' width=25 title='VS Code'> <img src='assets/figma.png' width=16 height=24 title='Figma'> <img src="assets/git.png" width=25 title='Git'/> <img src="assets/github.png" width=25 title='Github'/> <img src="assets/gitlab.png" width=25 title='Gitlab'> <img src='assets/dart-logo.png' width=25 title='Dart'> <img src="assets/flutter-logo.png" width=25 title='Flutter'/> <img src='assets/kotlin.png' width=20 height=20 title='Kotlin'> <img src='assets/firebase.png' width=25 height=25 title='Firebase'> <img src='assets/sqlite.png' width=25 height=25 title='SQLite'> <img src='assets/mysql.png' width=20 height=30 title='MySQL'>
 
 <p>
 <img src='https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white'> <img src='https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white'>
+
+#### 🤔 Stuff to study and explore a bit more
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" height=25 title='GraphQL'> <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" height=25 title='Docker'> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Carbon_logo.png" height=25 title='Carbon'> <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" height=25 title='Supabase'>
 
 #### **🌍 Follow me at**
 <a href="https://twitch.tv/feliper_dev">
