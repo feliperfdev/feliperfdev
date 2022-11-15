@@ -46,7 +46,7 @@
 
 #### 🤔 Stuff to study and explore a bit more
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" height=25 title='GraphQL'> <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" height=25 title='Docker'> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Carbon_logo.png" height=25 title='Carbon'> <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" height=25 title='Supabase'>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" height=25 title='GraphQL'> <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" height=25 title='Docker'> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Carbon_logo.png" height=25 title='Carbon'> <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" height=25 title='Supabase'> <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/539px-React-icon.svg.png' height=25 title='React Native'> <img src='https://www.pngkey.com/png/full/128-1286315_bird-logo-vector-2-buy-clip-art-swift.png' height=25 title='Swift'> <img src='https://cdn.iconscout.com/icon/free/png-256/mongodb-3629020-3030245.png' height=25 title='MongoDB'>
 
 #### **🌍 Follow me at**
 <a href="https://twitch.tv/feliper_dev">
