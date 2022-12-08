@@ -13,7 +13,7 @@
 
 <div align="left">
     <tr>
-        <td><img width="380px" src="https://github-readme-stats.vercel.app/api?username=feliper2002&theme=algolia&line"/></td>
+        <td><img width="380px" src="https://github-readme-stats.vercel.app/api?username=feliperfdev&theme=algolia&line"/></td>
     </tr>   
 </div>
 
@@ -62,9 +62,9 @@
 
 - [Flutter4Noobs](https://github.com/feliper2002/flutter4noobs/)
 
-#### **🏆 GitHub Profile Trophy (@feliper2002):**
+#### **🏆 GitHub Profile Trophy (@feliperfdev):**
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=feliper2002&row=2&column=10&theme=dracula&frame=true&no-bg=true"/>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=feliperfdev&row=2&column=10&theme=dracula&frame=true&no-bg=true"/>
 </a>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=feliper2002&theme=vue">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=feliperfdev&theme=vue">
