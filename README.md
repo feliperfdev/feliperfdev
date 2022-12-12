@@ -11,12 +11,6 @@
         <img src='https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white' title='My website portfolio with Flutter'></a>
 </div>
 
-<div align="left">
-    <tr>
-        <td><img width="380px" src="https://github-readme-stats.vercel.app/api?username=feliperfdev&theme=algolia&line"/></td>
-    </tr>   
-</div>
-
 <img src='assets/chibi.png' height=300 align='right'>
 
 - ***About me***
