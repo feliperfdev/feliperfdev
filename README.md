@@ -29,6 +29,8 @@
 
 ⚡ **Currently I'm working on my first app made with Flutter <img src="assets/flutter-logo.png" width=18 title='Flutter'/> to be published at store platforms. Actually, this is the first side-project project that I'm giving all efforts I can to develop such an app that will help people. As soon as possible, you'll meet the project!**
     
+🏳‍🌈 I'm working as a volunteer on a mobile app development with Flutter called [Is It Safe?](https://isitsafe.com.br/) 
+    
 ---
 
 #### 💻 **Languages**, **Technologies**, **Frameworks** and **Platforms**
