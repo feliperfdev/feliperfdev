@@ -57,7 +57,6 @@
 #### **💙 Some projects that I'm currently working on:**
 
 - [Flutter4Noobs](https://github.com/feliperfdev/flutter4noobs/)
-- [Dress-Me Project](https://github.com/feliperfdev/dress-me-project/)
 
 #### **🏆 GitHub Profile Trophy (@feliperfdev):**
 
