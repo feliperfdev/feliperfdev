@@ -25,7 +25,7 @@
 
 ☕📱 Ask me about [**Dart**](https://dart.dev) and [**Flutter**](https://flutter.dev) <p>
 
-🌱 Currently learning State Management Patterns (BLoC, State, SSP), Design Patterns and Clean Architecture, MySQL and Oracle databases, CI/CD and Docker.
+🌱 Currently learning State Management Patterns (BLoC, State, SSP), Design Patterns and Clean Architecture, MySQL, Firebase Cloud Messaging, Firebase CrashAnalytics, CI/CD and Docker.
 
 ⚡ **Currently I'm working on my first app made with Flutter <img src="assets/flutter-logo.png" width=18 title='Flutter'/> to be published at store platforms. Actually, this is the first side-project project that I'm giving all efforts I can to develop such an app that will help people. As soon as possible, you'll meet the project!**
     
@@ -46,15 +46,16 @@
 <a href="https://twitch.tv/feliper_dev">
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
 </a>
-<a href="https://dev.to/feliper2002">
+<a href="https://dev.to/feliperfdev">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white">
 </a>
 
 <p>
 
-#### **Let's learn something new?**
+#### **💙 Some projects that I'm currently working on:**
 
-- [Flutter4Noobs](https://github.com/feliper2002/flutter4noobs/)
+- [Flutter4Noobs](https://github.com/feliperfdev/flutter4noobs/)
+- [Dress-Me Project](https://github.com/feliperfdev/dress-me-project/)
 
 #### **🏆 GitHub Profile Trophy (@feliperfdev):**
 
