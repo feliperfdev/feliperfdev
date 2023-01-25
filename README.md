@@ -52,6 +52,8 @@
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white">
 </a>
 
+[TabNews](https://www.tabnews.com.br/FeliperDev)
+
 <p>
 
 #### **💙 Some projects that I'm currently working on:**
