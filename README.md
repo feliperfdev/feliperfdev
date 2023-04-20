@@ -45,9 +45,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" height=25 title='GraphQL'> <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" height=25 title='Docker'> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Carbon_logo.png" height=25 title='Carbon'> <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" height=25 title='Supabase'> <img src='https://www.pngkey.com/png/full/128-1286315_bird-logo-vector-2-buy-clip-art-swift.png' height=25 title='Swift'> <img src='https://cdn.iconscout.com/icon/free/png-256/mongodb-3629020-3030245.png' height=25 title='MongoDB'>
 
 #### **🌍 Follow me at**
-<a href="https://twitch.tv/feliper_dev">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
-</a>
 <a href="https://dev.to/feliperfdev">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white">
 </a>
