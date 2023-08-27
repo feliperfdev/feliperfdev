@@ -1,4 +1,4 @@
-## **${Hello.dev}** **👋**
+<h3><strong>${Hello.dev} 👋🏻</strong></h3>
 
 <img src='assets/HD-wallpaper-anime-boy-aqua-hair-profile-view-headphones-computer-smiling-anime.jpg' height=210 width=340 align='right'>
 
