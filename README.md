@@ -1,6 +1,6 @@
 ## **${Hello.dev}** **👋**
 
-<img src='assets/chibi.png' height=200 align='right'>
+<img src='assets/HD-wallpaper-anime-boy-aqua-hair-profile-view-headphones-computer-smiling-anime.jpg' height=210 width=340 align='right'>
 
 - ***About me***
 
