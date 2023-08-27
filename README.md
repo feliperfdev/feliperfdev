@@ -1,6 +1,6 @@
 ## **${Hello.dev}** **👋**
 
-<img src='assets/chibi.png' height=300 align='right'>
+<img src='assets/chibi.png' height=200 align='right'>
 
 - ***About me***
 
