@@ -48,7 +48,7 @@
 
 - [Flutter4Noobs](https://github.com/feliperfdev/flutter4noobs/)
 
-#### **📱 Some projects I've already contributted for:**
+#### **📱 Some open source projects I've already contributted for:**
 
 - [Is It Safe?](https://github.com/Is-It-Safe/mobile)
 
