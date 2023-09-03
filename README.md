@@ -6,7 +6,7 @@
 
 📌 Salvador Bahia, Brazil <p>
 🌴 Love anime, K-Pop, J-Pop, Geek culture, basketball, games 👾, coffee, reading 📚 and drawing 🎨<p>
-💚 I'm a biggest Pokemon franchise fan
+💚 I'm a big Pokemon franchise fan
 
 ---
 
