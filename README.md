@@ -59,3 +59,6 @@
     </a>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=feliperfdev&theme=vue" height=170>
 </details>
+
+#### **Help me with my job with any amount :)**
+[PixMeACoffee](https://pixmeacoffee.vercel.app/feliperfdev)
