@@ -47,6 +47,7 @@
 #### **💙 Some projects I'm currently working on:**
 
 - [Flutter4Noobs](https://github.com/feliperfdev/flutter4noobs/)
+- [Markdown Editor - Flutter](https://github.com/feliperfdev/markdown-editor)
 
 #### **📱 Some open source projects I've already contributted for:**
 
