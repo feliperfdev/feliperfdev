@@ -49,6 +49,8 @@
 - [Flutter4Noobs](https://github.com/feliperfdev/flutter4noobs/)
 - [Markdown Editor - Flutter Package](https://github.com/feliperfdev/markdown-editor)
 
+I'm also trying to "play" a little with Bukkit/Spigot Minecraft Plugins creation with Kotlin. My recent (and first) project of it is a try to connect the server with a MySQL database with Dart Shelf package and doing requests with Kotlin Retrofit. The project two repositories can be found [here](https://github.com/feliperfdev-MC-Plugins).
+
 #### **📱 Some open source projects I've already contributted for:**
 
 - [Is It Safe?](https://github.com/Is-It-Safe/mobile)
