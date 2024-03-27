@@ -1,16 +1,22 @@
 <h3><strong>${Hello.dev} 👋🏻</strong></h3>
 
-<img src='assets/HD-wallpaper-anime-boy-aqua-hair-profile-view-headphones-computer-smiling-anime.jpg' height=210 width=340 align='right'>
+<img src='assets/HD-wallpaper-anime-boy-aqua-hair-profile-view-headphones-computer-smiling-anime.jpg' height=210 width=340 align='left'/>
 
-- ***About me***
+Greetings! I'm Felipe, 22 y.o, which has a deep passion for astrophysics, computer science, artificial intelligence, calculus and the geek universe. I also loves coding, especially creating mobile applications with Dart/Flutter and Kotlin, creating Minecraft plugins with Kotlin and to creating automations and some college usefull scripts with Python. During my tech journey I'm trying to collaborate with what I can by writing tech articles and sharing my knowledges.
+
+I'm also working at my college final paper, developing a mobile application which 'll be available here as soon I finish it and presents my Undergraduate thesis.
+
+---
+ 
+### ***About me***
 
 📌 Salvador Bahia, Brazil <p>
-🌴 Love anime, K-Pop, J-Pop, Geek culture, basketball, games 👾, coffee, reading 📚 and drawing 🎨<p>
-💚 I'm a big Pokemon franchise fan
+🌴 Love anime, K-Pop, J-Pop, Geek culture, basketball, games 👾, coffee ☕, reading 📚 and drawing 🎨<p>
+💚 I'm a big Pokémon franchise fan
 
 ---
 
-- ***Tech things***
+### ***Tech things***
 
 ☕📱 Ask me about [**Dart**](https://dart.dev) and [**Flutter**](https://flutter.dev) <p>
 🌱 I'm currently working as a Mobile Developer on a brazilian enterprise <p>
@@ -48,8 +54,8 @@
 
 - [Flutter4Noobs](https://github.com/feliperfdev/flutter4noobs/)
 - [Markdown Editor - Flutter Package](https://github.com/feliperfdev/markdown-editor)
-
-I've also been trying to "play" a little with Bukkit/Spigot Minecraft Plugins creation with Kotlin. My recent (and first) project of it is a try to connect the server with a MySQL database with **Dart Shelf** package and doing requests with **Kotlin Retrofit**. The project two repositories can be found **[here](https://github.com/feliperfdev-MC-Plugins)**.
+- [Minecraft Plugins](https://github.com/feliperfdev-MC-Plugins)
+    - This is a project which I "play" a little with Bukkit/Spigot Minecraft Plugins creation with Kotlin. On it I connect a server with a MySQL database using **Dart Shelf** package and doing requests with **Kotlin Retrofit**.
 
 #### **📱 Some open source projects I've already contributted for:**
 
