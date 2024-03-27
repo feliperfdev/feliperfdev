@@ -2,9 +2,9 @@
 
 <img src='assets/HD-wallpaper-anime-boy-aqua-hair-profile-view-headphones-computer-smiling-anime.jpg' height=210 width=340 align='left'/>
 
-Greetings! I'm Felipe, 22 y.o, which has a deep passion for astrophysics, computer science, artificial intelligence, calculus and the geek universe. I also loves coding, especially creating mobile applications with [**Dart**](https://dart.dev)/[**Flutter**](https://flutter.dev) and [Kotlin](https://kotlinlang.org/), creating Minecraft plugins with Kotlin and to creating automations and some usefull scripts with Python. During my tech journey I'm trying to collaborate with what I can by writing tech articles and sharing my knowledges.
+Greetings! I'm Felipe, 22 y.o, I have a deep passion for astrophysics, computer science, artificial intelligence, calculus and the geek universe. I also loves coding, especially creating mobile applications with [**Dart**](https://dart.dev)/[**Flutter**](https://flutter.dev) and [Kotlin](https://kotlinlang.org/), creating Minecraft plugins with Kotlin and to creating automations and some usefull scripts with Python. During my tech journey I'm trying to collaborate with what I can by writing tech articles and sharing my knowledges.
 
-I'm also working at my college final paper, developing a mobile application which 'll be available here as soon I finish it and defend my Undergraduate thesis.
+🎓 I'm also working at my college final paper, developing a mobile application which 'll be available here as soon I finish it and defend my Undergraduate thesis.
 
 ---
  
