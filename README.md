@@ -10,18 +10,19 @@ Greetings! I'm Felipe, 22 y.o, I have a deep passion for astrophysics, computer 
  
 ### ***About me***
 
-📌 Salvador Bahia, Brazil <p>
-🌴 Love anime, K-Pop, J-Pop, Geek culture, basketball, games 👾, coffee ☕, reading 📚 and drawing 🎨<p>
-💚 I'm a big Pokémon franchise fan
+- 📌 Salvador Bahia, Brazil
+- 🌴 Love anime, K-Pop, J-Pop, Geek culture, basketball, games 👾, coffee ☕, reading 📚 and drawing 🎨
+- 💚 I'm a big Pokémon franchise fan
 
 ---
 
 ### ***Tech things***
 
-☕📱 Ask me about [**Dart**](https://dart.dev) and [**Flutter**](https://flutter.dev) <p>
-🌱 I'm currently working as a **Mobile Developer** on a brazilian company <p>
-🧑🏻‍💻 I'm also working on some [personal projects](https://github.com/feliperfdev/feliperfdev/blob/main/README.md#-some-projects-im-currently-working-on) <p>
-📖 Current reading: The Pragmatic Programmer: From Journeyman to Master
+- ☕📱 Ask me about [**Dart**](https://dart.dev) and [**Flutter**](https://flutter.dev)
+- 🌱 I'm currently working as a **Mobile Developer** on a brazilian company
+- 🧑🏻‍💻 I'm also working on some [personal projects](https://github.com/feliperfdev/feliperfdev/blob/main/README.md#-some-projects-im-currently-working-on)
+- 📫 You can reach me at feliper.dev@gmail.com
+- 📖 Current reading: The Pragmatic Programmer: From Journeyman to Master
 
     
 ---
