@@ -19,8 +19,8 @@ Greetings! I'm Felipe, 22 y.o, I have a deep passion for astrophysics, computer 
 ### ***Tech things***
 
 ☕📱 Ask me about [**Dart**](https://dart.dev) and [**Flutter**](https://flutter.dev) <p>
-🌱 I'm currently working as a Mobile Developer on a brazilian enterprise <p>
-🧑🏻‍💻 I'm also working on some personal projects <p>
+🌱 I'm currently working as a **Mobile Developer** on a brazilian company <p>
+🧑🏻‍💻 I'm also working on some [personal projects](https://github.com/feliperfdev/feliperfdev/blob/main/README.md#-some-projects-im-currently-working-on) <p>
 📖 Current reading: The Pragmatic Programmer: From Journeyman to Master
 
     
