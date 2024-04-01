@@ -22,6 +22,7 @@ Greetings! I'm Felipe, 22 y.o, I have a deep passion for astrophysics, computer 
 - 🌱 I'm currently working as a **Mobile Developer** on a brazilian company
 - 🧑🏻‍💻 I'm also working on some [personal projects](https://github.com/feliperfdev/feliperfdev/blob/main/README.md#-some-projects-im-currently-working-on)
 - 📫 You can reach me at feliper.dev@gmail.com
+- 📝 Read my articles at [dev.to](https://dev.to/feliperfdev)
 - 📖 Current reading: The Pragmatic Programmer: From Journeyman to Master
 
     
