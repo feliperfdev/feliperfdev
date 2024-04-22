@@ -13,6 +13,7 @@ Greetings! I'm Felipe, 22 y.o, I have a deep passion for astrophysics, computer 
 - 📌 Salvador Bahia, Brazil
 - 🌴 Love anime, K-Pop, J-Pop, Geek culture, basketball, games 👾, coffee ☕, reading 📚 and drawing 🎨
 - 💚 I'm a big Pokémon franchise fan
+- 🏃🏻‍♂️ I'm also an amateur runner 
 
 ---
 
