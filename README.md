@@ -59,6 +59,7 @@ Greetings! I'm Felipe, 22 y.o, I have a deep passion for astrophysics, computer 
 - [Markdown Editor - Flutter Package](https://github.com/feliperfdev/markdown-editor)
 - [Minecraft Plugins](https://github.com/feliperfdev-MC-Plugins)
     - This is a project which I "play" a little with Bukkit/Spigot Minecraft Plugins creation with Kotlin. On it I connect a server with a MySQL database using **Dart Shelf** package and doing requests with **Kotlin Retrofit**.
+- [CraftMentor](https://github.com/TRABALHOS-FACULDADE/craftmentor_sistemas_distribuidos) 
 
 #### **📱 Some open source projects I've already contributted for:**
 
