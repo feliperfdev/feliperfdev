@@ -59,11 +59,12 @@ Greetings! I'm Felipe, 22 y.o, I have a deep passion for astrophysics, computer 
 - [Markdown Editor - Flutter Package](https://github.com/feliperfdev/markdown-editor)
 - [Minecraft Plugins](https://github.com/feliperfdev-MC-Plugins)
     - This is a project which I "play" a little with Bukkit/Spigot Minecraft Plugins creation with Kotlin. On it I connect a server with a MySQL database using **Dart Shelf** package and doing requests with **Kotlin Retrofit**.
-- [CraftMentor](https://github.com/TRABALHOS-FACULDADE/craftmentor_sistemas_distribuidos) 
+- [CraftMentor](https://github.com/TRABALHOS-FACULDADE/craftmentor_sistemas_distribuidos)
+    - At this project I setup a Minecraft Bukkit server in a **Docker Container** with a PostgreSQL in another Docker Container connected with a [Dart-Shelf](https://pub.dev/packages/shelf_router) backend running at own localhost. This backend interacts with a Minecraft Bukkit plugin built with Kotlin.
 
 #### **📱 Some open source projects I've already contributted for:**
 
-- [Is It Safe?](https://github.com/Is-It-Safe/mobile)
+- [Is It Safe?](https://github.com/Is-It-Safe)
 
 <details close>
     <summary>🏆 Achievements and stats</summary>
