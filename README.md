@@ -66,6 +66,11 @@ Greetings! I'm Felipe, 22 y.o, I have a deep passion for astrophysics, computer 
 
 - [Is It Safe?](https://github.com/Is-It-Safe)
 
+#### **📱 Some college projects I've built:**
+
+- [TrAIsh Detector](SOON) (Project url will be available soon)
+    - At this project I used Python and data processing frameworks and Flutter to create an app that recognizes with the camera some eletronic trash (E-Trash) based on trained samples for an AI model using Tensorflow Lite (TFlite).
+
 <details close>
     <summary>🏆 Achievements and stats</summary>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
