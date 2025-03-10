@@ -19,7 +19,7 @@ I'm also delving deeper into studies in **Differential Calculus**, **Linear Alge
 
 ### ***Tech things***
 
-- 🌱 I'm currently delving deeper into studies on **Quantum Computing** area
+- 🌱 I'm currently delving deeper into studies on [**Quantum Computing** area](https://github.com/feliperfdev/estudos_quantum_qiskit)
 - 📫 You can reach me at feliper.dev@gmail.com
 - 📝 Read my articles at [dev.to](https://dev.to/feliperfdev)
 - 📖 Current reading: **Quantum Computing for Everyone - Chris Bernhardt**
