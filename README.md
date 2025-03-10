@@ -38,8 +38,6 @@ I'm also delving deeper into studies in **Differential Calculus**, **Linear Alge
 <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Qiskit-Logo.svg/2052px-Qiskit-Logo.svg.png' height=25 width=25 title='Qiskit'> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" height=25 title='GraphQL'> <img src='https://www.pngkey.com/png/full/128-1286315_bird-logo-vector-2-buy-clip-art-swift.png' height=25 title='Swift'>
     
 <p>
-<img src='https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white'> <img src='https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white'>
-
 
 <details close>
     <summary>Stuffs I'm current studying and trying to reach even better</summary>
