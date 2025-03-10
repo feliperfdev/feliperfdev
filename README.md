@@ -2,9 +2,9 @@
 
 <img src='assets/HD-wallpaper-anime-boy-aqua-hair-profile-view-headphones-computer-smiling-anime.jpg' height=210 width=340 align='left'/>
 
-Greetings! I'm Felipe, 23 y.o, I have a deep passion for astrophysics, computer science, artificial intelligence, calculus and the geek universe. I also loves coding, especially creating mobile applications with [**Dart**](https://dart.dev)/[**Flutter**](https://flutter.dev) and [**Kotlin**](https://kotlinlang.org/), creating Minecraft plugins with Kotlin and to creating automations and some usefull scripts with Python. During my tech journey I'm trying to collaborate with what I can by writing tech articles and sharing my knowledges.
+Greetings! I'm Felipe, 23 y.o, I have a deep passion for astrophysics, computer science, quantum computing artificial intelligence, calculus and the geek universe. I also loves coding, especially creating mobile applications with [**Dart**](https://dart.dev)/[**Flutter**](https://flutter.dev) and [**Kotlin**](https://kotlinlang.org/), creating Minecraft plugins with Kotlin and to creating automations and some usefull scripts with Python. During my tech journey I'm trying to collaborate with what I can by writing tech articles and sharing my knowledges.
 
-I'm also delving deeper into studies in **Differential Calculus**, **Linear Algebra**, **Discrete Fourier Transforms (DFT)**, **Python**, **Quantum Computing**, **Quantum Circuits**, **QDKs (like Qiskit)**.
+I'm also delving deeper into studies in **Differential Calculus**, **Linear Algebra**, [**Discrete Fourier Transforms (DFT)**](https://la.mathworks.com/help/signal/ug/discrete-fourier-transform.html), **Python**, **Quantum Computing**, **Quantum Circuits**, **QDKs (like [Qiskit](https://www.ibm.com/quantum/qiskit))**.
 
 ---
  
@@ -19,12 +19,10 @@ I'm also delving deeper into studies in **Differential Calculus**, **Linear Alge
 
 ### ***Tech things***
 
-- ☕📱 Ask me about [**Dart**](https://dart.dev) and [**Flutter**](https://flutter.dev)
-- 🌱 I'm currently working as a **Mobile Developer** on a brazilian company
-- 🧑🏻‍💻 I'm also working on some [personal projects](https://github.com/feliperfdev/feliperfdev/blob/main/README.md#-some-projects-im-currently-working-on)
+- 🌱 I'm currently delving deeper into studies on Quantum Computing area
 - 📫 You can reach me at feliper.dev@gmail.com
 - 📝 Read my articles at [dev.to](https://dev.to/feliperfdev)
-- 📖 Current reading: The Pragmatic Programmer: From Journeyman to Master
+- 📖 Current reading: Quantum Computing for Everyone - Chris Bernhardt
 
     
 ---
