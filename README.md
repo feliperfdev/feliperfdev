@@ -39,13 +39,6 @@ I'm also delving deeper into studies in **Differential Calculus**, **Linear Alge
     
 <p>
 
-<details close>
-    <summary>Stuffs I'm current studying and trying to reach even better</summary>
-        <img src="assets/flutter-logo.png" width=25 title='Flutter'/> <img src='assets/kotlin.png' width=20 height=20 title='Kotlin'> <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" height=25 title='Docker'>
-</details>
-
-
-<p>
 
 #### **💙 Some projects I'm currently working on:**
 
