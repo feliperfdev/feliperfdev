@@ -4,7 +4,7 @@
 
 Greetings! I'm Felipe, 23 y.o, I have a deep passion for astrophysics, computer science, artificial intelligence, calculus and the geek universe. I also loves coding, especially creating mobile applications with [**Dart**](https://dart.dev)/[**Flutter**](https://flutter.dev) and [**Kotlin**](https://kotlinlang.org/), creating Minecraft plugins with Kotlin and to creating automations and some usefull scripts with Python. During my tech journey I'm trying to collaborate with what I can by writing tech articles and sharing my knowledges.
 
-🎓 I'm also working at my college final paper, developing a mobile application which 'll be available here as soon I finish it and defend my Undergraduate thesis.
+I'm also delving deeper into studies in **Differential Calculus**, **Linear Algebra**, **Discrete Fourier Transforms (DFT)**, **Python**, **Quantum Computing**, **Quantum Circuits**, **QDKs (like Qiskit)**.
 
 ---
  
@@ -31,13 +31,13 @@ Greetings! I'm Felipe, 23 y.o, I have a deep passion for astrophysics, computer 
 
 <summary>💻 Languages, Technologies, Frameworks and Platforms</summary>
 <p>
-<img src='assets/vscode.png' width=25 title='VS Code'> <img src='assets/figma.png' width=16 height=24 title='Figma'> <img src="assets/git.png" width=25 title='Git'/> <img src="assets/github.png" width=25 title='Github'/> <img src="assets/gitlab.png" width=25 title='Gitlab'> <img src='assets/dart-logo.png' width=25 title='Dart'> <img src="assets/flutter-logo.png" width=25 title='Flutter'/> <img src='assets/kotlin.png' width=20 height=20 title='Kotlin'> <img src='assets/firebase.png' width=25 height=25 title='Firebase'> <img src='https://cdn.prod.website-files.com/65b8ffaaefde00838ae3ae69/672e13438ef3d48e25352267_iZw5Y1-b3BVfXjrXxhZ63dCufG5gZQoAa7VQav_gvSc.png' height=25 width=25 title='Supabase'/> <img src='assets/sqlite.png' width=25 height=25 title='SQLite'> <img src='assets/mysql.png' width=20 height=30 title='MySQL'> <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png' height=25 width=25 title='Python'>
+<img src='assets/vscode.png' width=25 title='VS Code'> <img src='assets/figma.png' width=16 height=24 title='Figma'> <img src="assets/git.png" width=25 title='Git'/> <img src="assets/github.png" width=25 title='Github'/> <img src="assets/gitlab.png" width=25 title='Gitlab'> <img src='assets/dart-logo.png' width=25 title='Dart'> <img src="assets/flutter-logo.png" width=25 title='Flutter'/> <img src='assets/kotlin.png' width=20 height=20 title='Kotlin'> <img src='assets/firebase.png' width=25 height=25 title='Firebase'> <img src='https://cdn.prod.website-files.com/65b8ffaaefde00838ae3ae69/672e13438ef3d48e25352267_iZw5Y1-b3BVfXjrXxhZ63dCufG5gZQoAa7VQav_gvSc.png' height=25 width=25 title='Supabase'/> <img src='assets/sqlite.png' width=25 height=25 title='SQLite'> <img src='assets/mysql.png' width=20 height=30 title='MySQL'> <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png' height=25 width=25 title='Python'> <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" height=25 title='Docker'>
 
 <p>
 
 🤔 Stuff to study and explore a bit more
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" height=25 title='GraphQL'> <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" height=25 title='Docker'> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Carbon_logo.png" height=25 title='Carbon'> <img src='https://www.pngkey.com/png/full/128-1286315_bird-logo-vector-2-buy-clip-art-swift.png' height=25 title='Swift'> <img src='https://cdn.iconscout.com/icon/free/png-256/mongodb-3629020-3030245.png' height=25 title='MongoDB'>
+<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Qiskit-Logo.svg/2052px-Qiskit-Logo.svg.png' height=25 width=25 title='Qiskit'> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" height=25 title='GraphQL'> <img src='https://www.pngkey.com/png/full/128-1286315_bird-logo-vector-2-buy-clip-art-swift.png' height=25 title='Swift'>
     
 <p>
 <img src='https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white'> <img src='https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white'>
