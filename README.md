@@ -4,7 +4,7 @@
 
 Greetings! I'm Felipe, 23 y.o, I have a deep passion for astrophysics, computer science, quantum computing artificial intelligence, calculus and the geek universe. I also loves coding, especially creating mobile applications with [**Dart**](https://dart.dev)/[**Flutter**](https://flutter.dev) and [**Kotlin**](https://kotlinlang.org/), creating Minecraft plugins with Kotlin and to creating automations and some usefull scripts with [**Python**](https://www.python.org/). I also had experience with college projects using libraries such as **Tensorflow**, **Keras**, **ScikitLearn**, **Numpy** and **Pandas** for data analysis or AI predictions and some projects for **signal analysis** using [**Discrete Fourier Transforms (DFT)**](https://la.mathworks.com/help/signal/ug/discrete-fourier-transform.html). During my tech journey I'm trying to collaborate with what I can by writing tech articles and sharing my knowledges.
 
-I'm also delving deeper into studies in **Differential Calculus**, **Linear Algebra**, **Python**, **Quantum Computing**, **Quantum Circuits**, **QDKs (like [Qiskit](https://www.ibm.com/quantum/qiskit))**.
+I'm also delving deeper into studies in **Differential Calculus**, **Linear Algebra**, **Python**, [**Quantum Computing**](https://github.com/feliperfdev/estudos_quantum_computing), **Quantum Circuits**, **QDKs (like [Qiskit](https://www.ibm.com/quantum/qiskit))**.
 
 ---
  
@@ -19,7 +19,7 @@ I'm also delving deeper into studies in **Differential Calculus**, **Linear Alge
 
 ### ***Tech things***
 
-- 🌱 I'm currently delving deeper into studies on [**Quantum Computing** area](https://github.com/feliperfdev/estudos_quantum_qiskit)
+- 🌱 I'm currently delving deeper into studies on [**Quantum Computing** area](https://github.com/feliperfdev/estudos_quantum_computing)
 - 📫 You can reach me at feliper.dev@gmail.com
 - 📝 Read my articles at [dev.to](https://dev.to/feliperfdev)
 - 📖 Current reading: **Quantum Computing for Everyone - Chris Bernhardt**
