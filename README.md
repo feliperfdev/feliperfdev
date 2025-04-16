@@ -51,9 +51,6 @@ I'm also delving deeper into studies in **Python**, **Differential Calculus**, *
 - [CraftMentor](https://github.com/TRABALHOS-FACULDADE/craftmentor_sistemas_distribuidos)
     - At this project I setup a Minecraft Bukkit server in a **Docker Container** with a PostgreSQL in another Docker Container connected with a [Dart-Shelf](https://pub.dev/packages/shelf_router) backend running at own localhost. This backend interacts with a Minecraft Bukkit plugin built with Kotlin.
 
-#### **📱 Some open source projects I've already contributted for:**
-
-- [Is It Safe?](https://github.com/Is-It-Safe)
 
 #### **📱 Some college projects I've built:**
 
