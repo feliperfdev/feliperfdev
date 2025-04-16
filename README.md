@@ -43,7 +43,7 @@ I'm also delving deeper into studies in **Python**, **Differential Calculus**, *
 #### **💙 Some projects I'm currently working on:**
 
 - [Love Live! Songs Sentiment Classifier](https://github.com/feliperfdev/AI-ML-Studies/blob/main/day_05/love_live_songs.ipynb)
-    - Classification model using [Logistical Regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html) and TF-IDF to predict [Love Live!!](https://pt.wikipedia.org/wiki/Love_Live!) songs sentiment by parsing it name. The model was trained using 192 songs from all main idol groups. Also, I built an API with [FastAPI](https://fastapi.tiangolo.com/) and pushed to a Docker Container [here](https://github.com/feliperfdev/love-live-songs-emotion-classifier).
+    - Classification model using [Logistic Regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html) and TF-IDF to predict [Love Live!!](https://pt.wikipedia.org/wiki/Love_Live!) songs sentiment by parsing it name. The model was trained using 192 songs from all main idol groups. Also, I built an API with [FastAPI](https://fastapi.tiangolo.com/) and pushed to a Docker Container [here](https://github.com/feliperfdev/love-live-songs-emotion-classifier).
 
 - [Flutter4Noobs](https://github.com/feliperfdev/flutter4noobs/)
 - [Minecraft Plugins](https://github.com/feliperfdev-MC-Plugins)
