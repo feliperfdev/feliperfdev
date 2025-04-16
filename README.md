@@ -42,8 +42,10 @@ I'm also delving deeper into studies in **Python**, **Differential Calculus**, *
 
 #### **💙 Some projects I'm currently working on:**
 
+- [Love Live! Songs Sentiment Classifier](https://github.com/feliperfdev/AI-ML-Studies/blob/main/day_05/love_live_songs.ipynb)
+    - Classification model using [Logistical Regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html) and TF-IDF to predict [Love Live!!](https://pt.wikipedia.org/wiki/Love_Live!) songs sentiment by parsing it name. The model was trained using 192 songs from all main idol groups. Also, I built an API with [FastAPI](https://fastapi.tiangolo.com/) and pushed to a Docker Container [here](https://github.com/feliperfdev/love-live-songs-emotion-classifier).
+
 - [Flutter4Noobs](https://github.com/feliperfdev/flutter4noobs/)
-- [Markdown Editor - Flutter Package](https://github.com/feliperfdev/markdown-editor)
 - [Minecraft Plugins](https://github.com/feliperfdev-MC-Plugins)
     - This is a project which I "play" a little with Bukkit/Spigot Minecraft Plugins creation with Kotlin. On it I connect a server with a MySQL database using **Dart Shelf** package and doing requests with **Kotlin Retrofit**.
 - [CraftMentor](https://github.com/TRABALHOS-FACULDADE/craftmentor_sistemas_distribuidos)
