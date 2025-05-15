@@ -42,6 +42,8 @@ Greetings! I'm Felipe, 23 y.o, I have a deep passion for astrophysics, computer 
 
 #### **💙 Some projects I'm currently working on:**
 
+- [AbacatePay Dart/Flutter SDK](https://pub.dev/packages/abacatepay)
+    - A Dart/Flutter package which is a [AbacatePay](https://www.abacatepay.com/) SDK.
 - [Flutter4Noobs](https://github.com/feliperfdev/flutter4noobs/)
 - [Minecraft Plugins](https://github.com/feliperfdev-MC-Plugins)
     - This is a project which I "play" a little with Bukkit/Spigot Minecraft Plugins creation with Kotlin. On it I connect a server with a MySQL database using **Dart Shelf** package and doing requests with **Kotlin Retrofit**.
