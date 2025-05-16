@@ -1,6 +1,6 @@
 <h3><strong>${Hello.dev} 👋🏻</strong></h3>
 
-<img src='assets/HD-wallpaper-anime-boy-aqua-hair-profile-view-headphones-computer-smiling-anime.jpg' height=210 width=340 align='left'/>
+<img src='assets/me.png' height=270 width=330 align='left'/>
 
 Greetings! I'm Felipe, 23 y.o, I have a deep passion for astrophysics, computer science, artificial intelligence, calculus and the geek universe. I also loves coding, especially creating mobile applications with [**Dart**](https://dart.dev)/[**Flutter**](https://flutter.dev) and [**Kotlin**](https://kotlinlang.org/), creating Minecraft plugins with Kotlin and to creating automations and some usefull scripts with Python. I also had experience with college projects using libraries for data analysis or AI predictions. During my tech journey I'm trying to collaborate with what I can by writing tech articles and sharing my knowledges.
 
@@ -8,23 +8,22 @@ Greetings! I'm Felipe, 23 y.o, I have a deep passion for astrophysics, computer 
 
 ---
 
-### ***About me***
+### **_About me_**
 
 - 📌 Salvador Bahia, Brazil
 - 🌴 Love anime, K-Pop, J-Pop, Geek culture, basketball, games 👾, coffee ☕, reading 📚 and drawing 🎨
 - 💚 I'm a big Pokémon franchise fan
-- 🏃🏻‍♂️ I'm also an amateur runner 
+- 🏃🏻‍♂️ I'm also an amateur runner
 
 ---
 
-### ***Tech things***
+### **_Tech things_**
 
 - 🌱 I'm currently delving deeper into being a Indie Hacker while developing my first ever SaaS (Software as a Service)
 - 📫 You can reach me at feliper.dev@gmail.com
 - 📝 Read my articles at [dev.to](https://dev.to/feliperfdev)
 - 📖 Current reading: **O Programador Pragmático - Andrew Hunt**
 
-    
 ---
 
 <summary>💻 Languages, Technologies, Frameworks and Platforms</summary>
@@ -36,26 +35,26 @@ Greetings! I'm Felipe, 23 y.o, I have a deep passion for astrophysics, computer 
 🤔 Stuff to study and explore a bit more
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" height=25 title='GraphQL'> <img src='https://www.pngkey.com/png/full/128-1286315_bird-logo-vector-2-buy-clip-art-swift.png' height=25 title='Swift'> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" height=25 title='React'/>
-    
-<p>
 
+<p>
 
 #### **💙 Some projects I'm currently working on:**
 
 - [AbacatePay Dart/Flutter SDK](https://pub.dev/packages/abacatepay)
-    - A Dart/Flutter package which is a [AbacatePay](https://www.abacatepay.com/) SDK.
+  - A Dart/Flutter package which is a [AbacatePay](https://www.abacatepay.com/) SDK.
 - [Flutter4Noobs](https://github.com/feliperfdev/flutter4noobs/)
 - [Minecraft Plugins](https://github.com/feliperfdev-MC-Plugins)
-    - This is a project which I "play" a little with Bukkit/Spigot Minecraft Plugins creation with Kotlin. On it I connect a server with a MySQL database using **Dart Shelf** package and doing requests with **Kotlin Retrofit**.
+  - This is a project which I "play" a little with Bukkit/Spigot Minecraft Plugins creation with Kotlin. On it I connect a server with a MySQL database using **Dart Shelf** package and doing requests with **Kotlin Retrofit**.
 
 #### **📱 Some college projects I've built:**
 
 - [TrAIsh Detector](SOON) (Project url will be available soon)
-    - At this project I used **Python**, data processing frameworks and **Flutter** to create an app that recognizes with the camera some eletronic trash (E-Trash) based on trained samples for an AI model using **Tensorflow Lite (TFlite)**. Also I'm using **Supabase** to store and track the discarded trash. 
- 
+
+  - At this project I used **Python**, data processing frameworks and **Flutter** to create an app that recognizes with the camera some eletronic trash (E-Trash) based on trained samples for an AI model using **Tensorflow Lite (TFlite)**. Also I'm using **Supabase** to store and track the discarded trash.
+
 - [CraftMentor](https://github.com/TRABALHOS-FACULDADE/craftmentor_sistemas_distribuidos)
-    - At this project I setup a Minecraft Bukkit server in a **Docker Container** with a PostgreSQL in another Docker Container connected with a [Dart-Shelf](https://pub.dev/packages/shelf_router) backend running at own localhost. This backend interacts with a Minecraft Bukkit plugin built with Kotlin.
- 
+  - At this project I setup a Minecraft Bukkit server in a **Docker Container** with a PostgreSQL in another Docker Container connected with a [Dart-Shelf](https://pub.dev/packages/shelf_router) backend running at own localhost. This backend interacts with a Minecraft Bukkit plugin built with Kotlin.
+
 <details close>
     <summary>🏆 Achievements and stats</summary>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -69,4 +68,5 @@ Greetings! I'm Felipe, 23 y.o, I have a deep passion for astrophysics, computer 
 </div>
 
 #### **Support me with my job with any amount :)**
+
 [PixMeACoffee](https://pixmeacoffee.vercel.app/feliperfdev)
