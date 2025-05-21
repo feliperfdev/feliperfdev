@@ -4,8 +4,7 @@
 
 Greetings! I'm Felipe, 23 y.o, I have a deep passion for astrophysics, computer science, artificial intelligence, calculus and the geek universe. I also loves coding, especially creating mobile applications with [**Dart**](https://dart.dev)/[**Flutter**](https://flutter.dev) and [**Kotlin**](https://kotlinlang.org/), creating Minecraft plugins with Kotlin and to creating automations and some usefull scripts with Python. I also had experience with college projects using libraries for data analysis or AI predictions. During my tech journey I'm trying to collaborate with what I can by writing tech articles and sharing my knowledges.
 
-Building in Public: [KeepLinks](https://x.com/KeepLinksApp) - Follow on X
-
+Building in Public: [KeepLinks](https://x.com/KeepLinksApp)
 <br/>
 <br/>
 
