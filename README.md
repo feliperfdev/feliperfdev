@@ -45,6 +45,7 @@ Building in Public: [Follow me](https://x.com/feliper_dev)
 - [KeepLinks](https://github.com/Keep-Links)
   - My first Micro-SaaS. Mobile app developed with **Flutter**, APIs with **Supabase** and **Express.js** and Browser Extension with **React + Vite.js**
   - Keep all your links organized in personalized folders, with tags and privacy. Save, find and quickly access everything that is important to you, from anywhere and at any time. Simple, secure and your way.
+  - [Waitlist](https://www.keeplinks.in/)
 
 - [AbacatePay Dart/Flutter SDK](https://pub.dev/packages/abacatepay)
   - A Dart/Flutter package which is a [AbacatePay](https://www.abacatepay.com/) SDK.
