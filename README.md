@@ -2,65 +2,66 @@
 
 <img src='assets/me.png' height=240 width=330 align='left'/>
 
-Greetings! I'm Felipe, 23 y.o, I have a deep passion for astrophysics, computer science, artificial intelligence, calculus and the geek universe. I also loves coding, especially creating mobile applications with [**Dart**](https://dart.dev)/[**Flutter**](https://flutter.dev) and [**Kotlin**](https://kotlinlang.org/), creating Minecraft plugins with Kotlin and to creating automations and some usefull scripts with Python. I also had experience with college projects using libraries for data analysis or AI predictions. During my tech journey I'm trying to collaborate with what I can by writing tech articles and sharing my knowledges.
+Hey! I'm Felipe, I'm 23 years old and passionate about technology, science, AI, calculus, the geek universe, and everything that involves creativity. Currently, I'm focused on building digital products as an Indie Hacker, especially [KeepLinked](https://www.keeplinks.in/), my first Micro-SaaS.
 
-Building in Public: [Follow me](https://x.com/feliper_dev)
+I enjoy creating mobile solutions with [**Dart**](https://dart.dev)/[**Flutter**](https://flutter.dev) and [**Kotlin**](https://kotlinlang.org/), developing plugins for Minecraft, automating tasks with Python, and exploring the world of data and AI. I share what I learn by writing articles and contributing to the tech community whenever I can.
+
+Building in public: [Follow me on X/Twitter](https://x.com/feliper_dev)
 <br/>
 <br/>
 
 ---
 
-### **_About me_**
+### **About me**
 
-- 📌 Salvador Bahia, Brazil
-- 🌴 Love anime, K-Pop, J-Pop, Geek culture, basketball, games 👾, coffee ☕, reading 📚 and drawing 🎨
-- 💚 I'm a big Pokémon franchise fan
-- 🏃🏻‍♂️ I'm also an amateur runner
-
----
-
-### **_Tech things_**
-
-- 🌱 I'm currently delving deeper into being a Indie Hacker while developing my first ever SaaS (Software as a Service)
-- 📫 You can reach me at feliper.dev@gmail.com
-- 📝 Read my articles at [dev.to](https://dev.to/feliperfdev)
-- 📖 Current reading: **O Programador Pragmático - Andrew Hunt**
+- 📌 Salvador, Bahia, Brazil
+- 🌴 Anime, K-Pop, J-Pop, geek culture, basketball, games 👾, coffee ☕, reading 📚, and drawing 🎨 are part of my daily life
+- 💚 Hardcore Pokémon fan
+- 🏃🏻‍♂️ Amateur runner in my spare time
 
 ---
 
-<summary>💻 Languages, Technologies, Frameworks and Platforms</summary>
+### **Tech & Indie Hacking**
+
+- 🌱 Currently diving into the Indie Hacker universe, developing my first SaaS from scratch
+- 📫 Contact: feliper.dev@gmail.com
+- 📝 Articles and tutorials on [dev.to](https://dev.to/feliperfdev)
+- 📖 Currently reading: **The Pragmatic Programmer - Andrew Hunt**
+
+---
+
+<summary>💻 Technologies, Frameworks, and Tools</summary>
 <p>
 <img src='assets/dart-logo.png' width=25 title='Dart'> <img src="assets/flutter-logo.png" width=25 title='Flutter'/> <img src='assets/kotlin.png' width=20 height=20 title='Kotlin'> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" height=25 title='React'/> <img src='assets/firebase.png' width=25 height=25 title='Firebase'> <img src='https://cdn.prod.website-files.com/65b8ffaaefde00838ae3ae69/672e13438ef3d48e25352267_iZw5Y1-b3BVfXjrXxhZ63dCufG5gZQoAa7VQav_gvSc.png' height=25 width=25 title='Supabase'/> <img src='assets/mysql.png' width=20 height=30 title='MySQL'> <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" height=25 title='Docker'> <img src='assets/vscode.png' width=25 title='VS Code'> <img src='assets/figma.png' width=16 height=24 title='Figma'> <img src="assets/git.png" width=25 title='Git'/> <img src="assets/github.png" width=25 title='Github'/> <img src="assets/gitlab.png" width=25 title='Gitlab'> <img src='assets/sqlite.png' width=25 height=25 title='SQLite'> <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png' height=25 width=25 title='Python'>
+</p>
 
-<p>
+Exploring more: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" height=25 title='GraphQL'> <img src='https://www.pngkey.com/png/full/128-1286315_bird-logo-vector-2-buy-clip-art-swift.png' height=25 title='Swift'>
 
-🤔 Stuff to study and explore a bit more
+---
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" height=25 title='GraphQL'> <img src='https://www.pngkey.com/png/full/128-1286315_bird-logo-vector-2-buy-clip-art-swift.png' height=25 title='Swift'>
+#### **💙 Featured Projects**
 
-<p>
-
-#### **💙 Some projects I'm currently working on:**
-
-- [KeepLinked]()
-  - My first Micro-SaaS. Mobile app developed with **Flutter**, APIs with **Supabase** and **Express.js** and Browser Extension with **React + Vite.js**
-  - Keep all your links organized in personalized folders, with tags and privacy. Save, find and quickly access everything that is important to you, from anywhere and at any time. Simple, secure and your way.
-  - [Waitlist Open 🔗](https://www.keeplinks.in/)
+- [KeepLinked](https://www.keeplinks.in/)
+  - My first Micro-SaaS: organize all your links in custom folders, with tags and privacy. Save, find, and access everything important to you, from anywhere, anytime. Simple, secure, and your way.
+  - Mobile app built with **Flutter**, APIs with **Supabase** and **Express.js**, browser extension with **React + Vite.js**.
+  - [Waitlist open 🔗](https://www.keeplinks.in/)
 
 - [AbacatePay Dart/Flutter SDK](https://pub.dev/packages/abacatepay)
-  - A Dart/Flutter package which is a [AbacatePay](https://www.abacatepay.com/) SDK.
+  - SDK for integrating [AbacatePay](https://www.abacatepay.com/) in Flutter/Dart apps.
+
 - [Flutter4Noobs](https://github.com/feliperfdev/flutter4noobs/)
 - [Minecraft Plugins](https://github.com/feliperfdev-MC-Plugins)
-  - This is a project which I "play" a little with Bukkit/Spigot Minecraft Plugins creation with Kotlin. On it I connect a server with a MySQL database using **Dart Shelf** package and doing requests with **Kotlin Retrofit**.
+  - Plugins for Bukkit/Spigot using Kotlin, MySQL integration via **Dart Shelf**, and requests with **Kotlin Retrofit**.
 
-#### **📱 Some college projects I've built:**
+---
 
-- [TrAIsh Detector](SOON) (Project url will be available soon)
+#### **📱 Academic Projects**
 
-  - At this project I used **Python**, data processing frameworks and **Flutter** to create an app that recognizes with the camera some eletronic trash (E-Trash) based on trained samples for an AI model using **Tensorflow Lite (TFlite)**. Also I'm using **Supabase** to store and track the discarded trash.
+- [TrAIsh Detector](SOON) (coming soon)
+  - App that recognizes electronic waste via camera, using AI trained with **Tensorflow Lite (TFlite)**, data processing in **Python**, and backend with **Supabase**.
 
 - [CraftMentor](https://github.com/TRABALHOS-FACULDADE/craftmentor_sistemas_distribuidos)
-  - At this project I setup a Minecraft Bukkit server in a **Docker Container** with a PostgreSQL in another Docker Container connected with a [Dart-Shelf](https://pub.dev/packages/shelf_router) backend running at own localhost. This backend interacts with a Minecraft Bukkit plugin built with Kotlin.
+  - Minecraft Bukkit server in **Docker**, **PostgreSQL** database in a separate container, backend with [Dart-Shelf](https://pub.dev/packages/shelf_router), and plugin in Kotlin.
 
 <details close>
     <summary>🏆 Achievements and stats</summary>
@@ -74,6 +75,6 @@ Building in Public: [Follow me](https://x.com/feliper_dev)
     <img src=https://i.pinimg.com/originals/f5/8f/e8/f58fe8e19a7e25ddf0c459a3599261d6.gif width=300 height=240>
 </div>
 
-#### **Support me with my job with any amount :)**
+#### **Like my work? Support me with any amount :)**
 
 [PixMeACoffee](https://pixmeacoffee.vercel.app/feliperfdev)
