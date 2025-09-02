@@ -14,16 +14,16 @@ Building in public: [Follow me on X/Twitter](https://x.com/feliper_dev)
 
 ### **About me**
 
-- 📌 Salvador, Bahia, Brazil
-- 🌴 Anime, K-Pop, J-Pop, geek culture, basketball, games 👾, coffee ☕, reading 📚, and drawing 🎨 are part of my daily life
+- 📌 Salvador - Bahia, Brazil
+- 🌴 Anime, geek culture, games 👾, coffee ☕, reading 📚, and drawing 🎨 are part of my daily life
 - 💚 Hardcore Pokémon fan
-- 🏃🏻‍♂️ Amateur runner in my spare time
+- 🏃🏻‍♂️ Amateur runner and swimmer in my spare time
 
 ---
 
 ### **Tech & Indie Hacking**
 
-- 🌱 Currently diving into the Indie Hacker universe, developing my first SaaS from scratch
+- 🌱 Currently diving into the Indie Hacker universe, developing some Micro-SaaS
 - 📫 Contact: feliper.dev@gmail.com
 - 📝 Articles and tutorials on [dev.to](https://dev.to/feliperfdev)
 - 📖 Currently reading: **The Pragmatic Programmer - Andrew Hunt**
