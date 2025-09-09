@@ -44,10 +44,10 @@ Exploring more: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1
 
 #### **💙 Featured Projects**
 
-- [FinancesTracker]()
+- [FinanceTracker]()
 
   - A SideProject mobile app I'm developing at the moment to manage personal finances.
-  - Mobile app being developed with **Flutter**, backend with **AWS DynamoDB** as database, **AWS Lambda Functions** to serverless function calling and **AWS Cognito** to authentication.
+  - Mobile app being developed with **Flutter**, backend with **AWS DynamoDB** as database, **AWS Lambda Functions** to serverless function calling, **AWS API Gateway** to API deploy and management and **AWS Cognito** to authentication.
 
 - [Aibum](https://www.aibum.app/)
 
@@ -58,7 +58,6 @@ Exploring more: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1
 
   - My first Micro-SaaS: organize all your links in custom folders, with tags and privacy. Save, find, and access everything important to you, from anywhere, anytime. Simple, secure, and your way.
   - Mobile app built with **Flutter**, APIs with **Supabase** and **Express.js**, browser extension with **React + Vite.js**.
-  - [Waitlist open 🔗](https://www.keeplinks.in/)
 
 - [AbacatePay Dart/Flutter SDK](https://pub.dev/packages/abacatepay)
 
