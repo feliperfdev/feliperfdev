@@ -35,7 +35,7 @@ Building in public: [Follow me on X/Twitter](https://x.com/feliper_dev)
 <img src='assets/dart-logo.png' width=25 title='Dart'> <img src="assets/flutter-logo.png" width=25 title='Flutter'/> <img src='assets/kotlin.png' width=20 height=20 title='Kotlin'> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" height=25 title='React'/> <img src='assets/firebase.png' width=25 height=25 title='Firebase'> <img src='https://cdn.prod.website-files.com/65b8ffaaefde00838ae3ae69/672e13438ef3d48e25352267_iZw5Y1-b3BVfXjrXxhZ63dCufG5gZQoAa7VQav_gvSc.png' height=25 width=25 title='Supabase'/> <img src='assets/mysql.png' width=20 height=30 title='MySQL'> <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" height=25 title='Docker'> <img src='assets/vscode.png' width=25 title='VS Code'> <img src='assets/figma.png' width=16 height=24 title='Figma'> <img src="assets/git.png" width=25 title='Git'/> <img src="assets/github.png" width=25 title='Github'/> <img src="assets/gitlab.png" width=25 title='Gitlab'> <img src='assets/sqlite.png' width=25 height=25 title='SQLite'> <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png' height=25 width=25 title='Python'>
 <br/>
 <img src='https://upload.wikimedia.org/wikipedia/commons/f/fd/DynamoDB.png' height=25 width=25 title='AWS DynamoDB'>
-<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Amazon_Lambda_architecture_logo.svg/250px-Amazon_Lambda_architecture_logo.svg.png' height=25 width=25 title='AWS Lambda Functions'>
+<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Amazon_Lambda_architecture_logo.svg/250px-Amazon_Lambda_architecture_logo.svg.png' height=25 width=25 title='AWS Lambda Functions'> <img src ='https://cdn.worldvectorlogo.com/logos/aws-cognito.svg' height=25 width=25 title='AWS Cognito'>
 </p>
 
 Exploring more: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" height=25 title='GraphQL'> <img src='https://www.pngkey.com/png/full/128-1286315_bird-logo-vector-2-buy-clip-art-swift.png' height=25 title='Swift'>
@@ -44,7 +44,7 @@ Exploring more: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1
 
 #### **💙 Featured Projects**
 
-- [FinanceTracker]()
+- [FinanceTracker](https://www.linkedin.com/posts/feliperdev_flutter-typescript-programacao-activity-7374443945122246656-Fj_W/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC5Uu1QBLhANm2nfwIcgz4gq2G62VzhFMO4)
 
   - A SideProject mobile app I'm developing at the moment to manage personal finances.
   - Mobile app being developed with **Flutter**, backend with **AWS DynamoDB** as database, **AWS Lambda Functions** to serverless function calling, **AWS API Gateway** to API deploy and management and **AWS Cognito** to authentication.
