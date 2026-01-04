@@ -1,0 +1,99 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[margin=1cm]{geometry}
+\usepackage{hyperref}
+\usepackage{enumitem}
+\usepackage{titlesec}
+
+\usepackage{helvet}
+\renewcommand{\familydefault}{\sfdefault}
+
+% Configurações de hyperlinks
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    urlcolor=blue,
+    citecolor=blue
+}
+
+% Configurações de seções
+\titleformat{\section}{\large\bfseries}{}{}{}[\titlerule]
+\titleformat{\subsection}{\normalsize\bfseries}{}{}{}
+\titlespacing{\section}{0pt}{12pt}{6pt}
+\titlespacing{\subsection}{0pt}{8pt}{4pt}
+
+% Remove indentação de parágrafos
+\setlength{\parindent}{0pt}
+
+\begin{document}
+
+% Nome
+{\LARGE\bfseries Felipe Azevedo Ribeiro}
+
+\vspace{0.3cm}
+
+% Contatos
+\href{mailto:feliper.dev@gmail.com}{feliper.dev@gmail.com} | 
+\href{https://github.com/feliperfdev}{github.com/feliperfdev} | 
+\href{https://www.linkedin.com/in/feliperdev}{linkedin.com/in/feliperdev} | 
+\href{https://www.feliperdev.link}{feliperdev.link} | 
+\href{tel:+5571996446771}{(71) 996446771}
+
+\section*{Resumo}
+
+Desenvolvedor Mobile Pleno especializado em Flutter, com expertise em desenvolvimento de aplicações nativas para Android e iOS. Focado em entrega contínua com código limpo, testável e de fácil manutenção, colaboração técnica e code reviews. Garanto excelência em UI/UX com fidelidade pixel-perfect ao design e otimização de performance. Comprometido com agilidade, proatividade e melhoria contínua.
+
+\section*{Educação}
+
+\textbf{Engenharia de Computação} — Universidade SENAI Cimatec — Salvador/BA — 2020–2025
+
+\section*{Habilidades}
+
+\begin{itemize}[leftmargin=*, itemsep=1pt]
+    \item \textbf{Mobile:} Flutter, Dart, BLoC, Provider, Riverpod, MobX, Drift ORM, Secure Storage, Geolocalização, Flutter Web, interoperabilidade Android/Kotlin, Push Notifications (FCM), Offline-first, Caching
+    \item \textbf{Backend:} Node.js, TypeScript, Express.js, NestJS
+    \item \textbf{Cloud/DevOps:} AWS Lambda, API Gateway, DynamoDB, Cognito, Docker, CI/CD, GitHub Actions, Fastlane
+    \item \textbf{Dados:} PostgreSQL, Supabase, Firebase, MySQL, SQLite
+    \item \textbf{Arquitetura/Qualidade:} Clean Architecture, Hexagonal Architecture, MVVM, DDD, TDD, REST APIs, gRPC, Protocol Buffers, Unit/Widget Tests, Sentry, Mixpanel
+    \item \textbf{Design:} Figma, Rive, Lottie
+    \item \textbf{Idiomas:} Português (Nativo), Inglês (B2)
+\end{itemize}
+
+\section*{Experiência profissional}
+
+\subsection*{Engenheiro de Software | F.R Dev | 2024–2025}
+
+\begin{itemize}[leftmargin=*, itemsep=1pt]
+    \item Projetou e desenvolveu Micro-SaaS web e mobile com Flutter e backend serverless (AWS/Supabase) aplicando DDD, arquitetura hexagonal e estratégias \textit{offline-first} com sincronização, \textit{sync-queue} e caching.
+    \item Construiu APIs REST com Node.js e Express.js priorizando segurança e escalabilidade.
+    \item Implantou CI/CD, testes unitários/widgets e Docker, elevando a confiabilidade e a velocidade de releases.
+    \item Assegurou fidelidade pixel-perfect ao design e otimizou performance, monitorando tempo de resposta e consumo de memória.
+\end{itemize}
+
+\subsection*{Desenvolvedor Mobile | Petize | 2023–2025}
+
+\begin{itemize}[leftmargin=*, itemsep=1pt]
+    \item Aplicou Arquitetura Hexagonal com TDD, alta cobertura em módulos core e redução de bugs em produção.
+    \item Implementação o padrão Bloc para gerenciamento de estado, garantindo a separação de responsabilidades entre a interface e a regra de negócio; Otimizou animações Lottie, garantindo 60fps consistentes.
+    \item Automatizou o pipeline de releases (Fastlane + CI/CD) com testes automatizados.
+    \item Liderou integrações de REST APIs e push notifications (Firebase Cloud Messaging).
+\end{itemize}
+
+\subsection*{Desenvolvedor Mobile | Ommed | 2021}
+
+\begin{itemize}[leftmargin=*, itemsep=1pt]
+    \item Implementou Clean Architecture + TDD em features críticas.
+    \item Estabeleceu comunicação entre microserviços via gRPC/Protocol Buffer.
+    \item Gerenciou estado complexo com MobX e fluxos assíncronos reativos.
+\end{itemize}
+
+\section*{Projetos}
+\begin{itemize}[leftmargin=*, itemsep=1pt]
+    \item Aibum — Geração de imagens para colorir. Flutter Web; APIs com Supabase e Express.js;
+    \item KeepLinked — Organização de links com pastas/tags/privacidade. Flutter; APIs com Supabase/Express.js.
+    \item Wander Level — App mobile \textit{offline-first} com sync-queue. Flutter; Drift ORM; Supabase;
+    \item FinanceTracker — App mobile para finanças pessoais. Flutter; backend AWS (DynamoDB, Lambda, API Gateway, Cognito).
+\end{itemize}
+
+\end{document}
