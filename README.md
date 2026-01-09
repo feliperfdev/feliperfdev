@@ -2,7 +2,7 @@
 
 <img src='assets/me.png' style="margin-right: 12px;" height=240 width=330 align='left'/>
 
-Hey! I'm Felipe, I'm 23 years old and passionate about technology, science, AI, calculus, the geek universe, and everything that involves creativity. Currently, I'm focused on building digital products as an Indie Hacker.
+Hey! I'm Felipe, I'm 24 years old and passionate about technology, science, AI, calculus, the geek universe, and everything that involves creativity. Currently, I'm focused on building digital products as an Indie Hacker.
 
 I enjoy creating solutions with [**Dart**](https://dart.dev)/[**Flutter**](https://flutter.dev) and [**Kotlin**](https://kotlinlang.org/) and learning new technologies. I share what I learn by writing articles and contributing to the tech community whenever I can.
 
