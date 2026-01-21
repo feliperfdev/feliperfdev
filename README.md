@@ -43,6 +43,7 @@ Building in public: [Follow me on Threads](https://www.threads.com/@feliper.tech
 </p>
 
 <summary>Want to explore more:</summary>
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" height=25 title='GraphQL'> <img src='https://www.pngkey.com/png/full/128-1286315_bird-logo-vector-2-buy-clip-art-swift.png' height=25 title='Swift'>
 
 ---
