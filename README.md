@@ -81,14 +81,6 @@ Building in public: [Follow me on Threads](https://www.threads.com/@feliper.tech
 
 ---
 
-#### **📱 Academic Projects**
-
-- [TrAIsh Detector]()
-  - App that recognizes electronic waste via camera, using AI trained with **Tensorflow Lite (TFlite)**, data processing in **Python**, and backend with **Supabase**.
-
-- [CraftMentor](https://github.com/TRABALHOS-FACULDADE/craftmentor_sistemas_distribuidos)
-  - Minecraft Bukkit server in **Docker**, **PostgreSQL** database in a separate container, backend with [Dart-Shelf](https://pub.dev/packages/shelf_router), and plugin in Kotlin.
-
 <details close>
     <summary>🏆 Achievements and stats</summary>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -100,7 +92,3 @@ Building in public: [Follow me on Threads](https://www.threads.com/@feliper.tech
 <div align=center>
     <img src=https://i.pinimg.com/originals/f5/8f/e8/f58fe8e19a7e25ddf0c459a3599261d6.gif width=300 height=240>
 </div>
-
-#### **Like my work? Support me with any amount :)**
-
-[PixMeACoffee](https://pixmeacoffee.vercel.app/feliperfdev)
