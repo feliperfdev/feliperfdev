@@ -56,6 +56,10 @@ Building in public: [Follow me on Threads](https://www.threads.com/@feliper.tech
 
 #### **💙 Featured Projects**
 
+- [Pokémon API](https://github.com/feliperfdev/PokemonTrainersAPI-ASP.NET)
+  - A ASP.NET API which I developed creating a "Trainer-Pokémon" organization system by team parties and PC-Box (Pokémon core game systems).
+  - The project is fully "backended", so it's a ASP.NET API integrated to a PostgreSQL database without any frontend. 
+
 - [Wander Level](https://www.threads.com/@feliper.tech/post/DTS_R-ckWtB?xmt=AQF0H7e8doDmwnBewqo3sGzInWYm9NKoPsUngEu9vXq9wA)
   - A Micro-SaaS mobile app I'm developing at the moment to gamify vacations tracking.
   - Mobile app being developed with **Flutter**, backend serverless with **Supabase**. Applying offline-first strategies with sync-queue, managing local data with **Drift ORM**.
