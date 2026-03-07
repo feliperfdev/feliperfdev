@@ -33,7 +33,7 @@ Building in public: [Follow me on Threads](https://www.threads.com/@feliper.tech
 <div align='center'>
 <b>Core technologies</b>
 
-<img src='assets/dart-logo.png' width=25 title='Dart'> <img src="assets/flutter-logo.png" width=25 title='Flutter'/> <img src='assets/kotlin.png' width=20 height=20 title='Kotlin'> <img src='https://www.pngkey.com/png/full/128-1286315_bird-logo-vector-2-buy-clip-art-swift.png' height=25 title='Swift'> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" height=25 title='React'/>
+<img src='assets/dart-logo.png' width=25 title='Dart'> <img src="assets/flutter-logo.png" width=25 title='Flutter'/> <img src='assets/kotlin.png' width=20 height=20 title='Kotlin'> <img src='https://www.pngkey.com/png/full/128-1286315_bird-logo-vector-2-buy-clip-art-swift.png' height=25 title='Swift'> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" height=25 title='React'/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/250px-Typescript_logo_2020.svg.png" height=25 title="Typescript"/>
 
 <b>Backend & Databases</b>
 
