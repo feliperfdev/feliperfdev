@@ -56,7 +56,7 @@ Building in public: [Follow me on Threads](https://www.threads.com/@feliper.tech
 
 #### **💙 Featured Projects**
 
-- [NullBattle]([https://github.com/feliperfdev/PokemonTrainersAPI-ASP.NET](https://github.com/feliperfdev/NullBatlle))
+- [NullBattle](https://github.com/feliperfdev/NullBatlle)
   - A turn-based Pokémon battle engine written in C++17, faithfully replicating Generation 3 mechanics — damage formula, type effectiveness, speed/priority ordering, and status conditions.
 
 - [Pokémon API](https://github.com/feliperfdev/PokemonTrainersAPI-ASP.NET)
