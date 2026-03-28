@@ -33,7 +33,7 @@ Building in public: [Follow me on Threads](https://www.threads.com/@feliper.tech
 <div align='center'>
 <b>Core technologies</b>
 
-<img src='assets/dart-logo.png' width=25 title='Dart'> <img src="assets/flutter-logo.png" width=25 title='Flutter'/> <img src='assets/kotlin.png' width=20 height=20 title='Kotlin'> <img src='https://www.pngkey.com/png/full/128-1286315_bird-logo-vector-2-buy-clip-art-swift.png' height=25 title='Swift'> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" height=25 title='React'/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/250px-Typescript_logo_2020.svg.png" height=25 title="Typescript"/>
+<img src='assets/dart-logo.png' width=25 title='Dart'> <img src="assets/flutter-logo.png" width=25 title='Flutter'/> <img src='assets/kotlin.png' width=20 height=20 title='Kotlin'> <img src='https://www.pngkey.com/png/full/128-1286315_bird-logo-vector-2-buy-clip-art-swift.png' height=25 title='Swift'> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/1280px-React_Logo_SVG.svg.png" height=25 title='React'/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/250px-Typescript_logo_2020.svg.png" height=25 title="Typescript"/>
 
 <b>Backend & Databases</b>
 
@@ -48,6 +48,11 @@ Building in public: [Follow me on Threads](https://www.threads.com/@feliper.tech
 
 <img src='https://upload.wikimedia.org/wikipedia/commons/f/fd/DynamoDB.png' height=25 width=25 title='AWS DynamoDB'>
 <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Amazon_Lambda_architecture_logo.svg/250px-Amazon_Lambda_architecture_logo.svg.png' height=25 width=25 title='AWS Lambda Functions'> <img src ='https://cdn.worldvectorlogo.com/logos/aws-cognito.svg' height=25 width=25 title='AWS Cognito'>
+<br/>
+
+<b>Studying and applying in personal projects</b>
+
+<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1280px-ISO_C%2B%2B_Logo.svg.png' height=25 width=25 title='C++'> <img src='https://cdn.iconscout.com/icon/free/png-256/free-cmake-logo-icon-svg-download-png-2944790.png' height=25 width=25 title='CMake'/> <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1280px-Python-logo-notext.svg.png' height=25 width=25 title='Python' />
 <br/>
 
 </div>
