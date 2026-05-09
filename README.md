@@ -52,7 +52,7 @@ Building in public: [Follow me on Threads](https://www.threads.com/@feliper.tech
 
 <b>Studying and applying in personal projects</b>
 
-<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1280px-ISO_C%2B%2B_Logo.svg.png' height=25 width=25 title='C++'> <img src='https://cdn.iconscout.com/icon/free/png-256/free-cmake-logo-icon-svg-download-png-2944790.png' height=25 width=25 title='CMake'/> <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1280px-Python-logo-notext.svg.png' height=25 width=25 title='Python' />
+<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1280px-ISO_C%2B%2B_Logo.svg.png' height=25 width=25 title='C++'> <img src='https://cdn.iconscout.com/icon/free/png-256/free-cmake-logo-icon-svg-download-png-2944790.png' height=25 width=25 title='CMake'/> <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1280px-Python-logo-notext.svg.png' height=25 width=25 title='Python' /> <img src="https://cdn.iconscout.com/icon/free/png-256/free-grafana-logo-icon-svg-download-png-2944910.png" height=25 width=25 title='Grafana' />
 <br/>
 
 </div>
