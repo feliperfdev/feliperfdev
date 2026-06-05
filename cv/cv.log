@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.12.29)  4 JAN 2026 11:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.12.29)  4 JUN 2026 21:42
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Dev/Side Projects/feliperfdev/cv/cv_eng.tex"
-(c:/Dev/Side Projects/feliperfdev/cv/cv_eng.tex
+**"c:/Dev/Side Projects/feliperfdev/cv/cv.tex"
+(c:/Dev/Side Projects/feliperfdev/cv/cv.tex
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
 (c:/texlive/2025/texmf-dist/tex/latex/base/article.cls
@@ -178,8 +178,8 @@ File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
 ) (c:/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count300
-) (./cv_eng.aux)
-\openout1 = `cv_eng.aux'.
+) (./cv.aux)
+\openout1 = `cv.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
 LaTeX Font Info:    ... okay on input line 29.
@@ -208,15 +208,15 @@ LaTeX Font Info:    ... okay on input line 29.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(14.22636pt, 569.05515pt, 14.22636pt)
-* v-part:(T,H,B)=(14.22636pt, 816.59412pt, 14.22636pt)
+* h-part:(L,W,R)=(28.45274pt, 540.60239pt, 28.45274pt)
+* v-part:(T,H,B)=(28.45274pt, 788.14136pt, 28.45274pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
-* \textwidth=569.05515pt
-* \textheight=816.59412pt
-* \oddsidemargin=-58.04362pt
-* \evensidemargin=-58.04362pt
-* \topmargin=-95.04362pt
+* \textwidth=540.60239pt
+* \textheight=788.14136pt
+* \oddsidemargin=-43.81725pt
+* \evensidemargin=-43.81725pt
+* \topmargin=-80.81725pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=11.0pt
@@ -257,41 +257,39 @@ File: pdftex.def 2025/09/29 v1.2d Graphics/color driver for pdftex
 \everyMPtoPDFconversion=\toks24
 )) (c:/texlive/2025/texmf-dist/tex/latex/graphics/mathcolor.ltx))
 Package hyperref Info: Link coloring ON on input line 29.
- (./cv_eng.out) (./cv_eng.out)
+ (./cv.out) (./cv.out)
 \@outlinefile=\write3
-\openout3 = `cv_eng.out'.
+\openout3 = `cv.out'.
 
 LaTeX Font Info:    Trying to load font information for TS1+phv on input line 53.
  (c:/texlive/2025/texmf-dist/tex/latex/psnfss/ts1phv.fd
 File: ts1phv.fd 2020/03/25 scalable font definitions for TS1/phv.
 )
-Overfull \hbox (14.22227pt too wide) in paragraph at lines 68--69
-[]\T1/phv/m/n/10.95 Designed and de-vel-oped Micro-SaaS web and mo-bile ap-pli-ca-tions with Flut-ter and server-less back-end (AWS/Supabase)
- []
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10.95> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 77.
+ [1
 
-[1
-
-{c:/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2025/texmf-dist/fonts/enc/dvips/base/8r.enc}] (./cv_eng.aux)
+{c:/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2025/texmf-dist/fonts/enc/dvips/base/8r.enc}] [2] (./cv.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
  ***********
-Package rerunfilecheck Info: File `cv_eng.out' has not changed.
+Package rerunfilecheck Info: File `cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 9543 strings out of 467538
- 145451 string characters out of 5423724
- 582092 words of memory out of 5000000
- 38367 multiletter control sequences out of 15000+600000
- 643655 words of font info for 53 fonts, out of 8000000 for 9000
+ 9548 strings out of 467538
+ 145429 string characters out of 5423724
+ 583066 words of memory out of 5000000
+ 38369 multiletter control sequences out of 15000+600000
+ 646671 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,5n,79p,441b,440s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb><c:/texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on cv_eng.pdf (1 page, 27302 bytes).
+ 75i,5n,79p,482b,561s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb><c:/texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb><c:/texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
+Output written on cv.pdf (2 pages, 38323 bytes).
 PDF statistics:
- 29 PDF objects out of 1000 (max. 8388607)
- 21 compressed objects within 1 object stream
- 2 named destinations out of 1000 (max. 500000)
+ 38 PDF objects out of 1000 (max. 8388607)
+ 27 compressed objects within 1 object stream
+ 3 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

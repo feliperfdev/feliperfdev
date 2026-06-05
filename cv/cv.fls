@@ -2,8 +2,8 @@ PWD c:/Dev/Side Projects/feliperfdev/cv
 INPUT c:/texlive/2025/texmf.cnf
 INPUT c:/texlive/2025/texmf-dist/web2c/texmf.cnf
 INPUT c:/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT c:/Dev/Side Projects/feliperfdev/cv/cv_eng.tex
-OUTPUT cv_eng.log
+INPUT c:/Dev/Side Projects/feliperfdev/cv/cv.tex
+OUTPUT cv.log
 INPUT c:/texlive/2025/texmf-dist/tex/latex/base/article.cls
 INPUT c:/texlive/2025/texmf-dist/tex/latex/base/article.cls
 INPUT c:/texlive/2025/texmf-dist/tex/latex/base/size11.clo
@@ -85,10 +85,10 @@ INPUT c:/texlive/2025/texmf-dist/tex/latex/psnfss/t1phv.fd
 INPUT c:/texlive/2025/texmf-dist/fonts/tfm/adobe/helvetic/phvr8t.tfm
 INPUT c:/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT c:/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-INPUT ./cv_eng.aux
-INPUT ./cv_eng.aux
-INPUT cv_eng.aux
-OUTPUT cv_eng.aux
+INPUT ./cv.aux
+INPUT ./cv.aux
+INPUT cv.aux
+OUTPUT cv.aux
 INPUT c:/texlive/2025/texmf-dist/tex/latex/graphics/color.sty
 INPUT c:/texlive/2025/texmf-dist/tex/latex/graphics/color.sty
 INPUT c:/texlive/2025/texmf-dist/tex/latex/graphics-cfg/color.cfg
@@ -103,14 +103,14 @@ INPUT c:/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT c:/texlive/2025/texmf-dist/tex/latex/graphics/mathcolor.ltx
 INPUT c:/texlive/2025/texmf-dist/tex/latex/graphics/mathcolor.ltx
 INPUT c:/texlive/2025/texmf-dist/tex/latex/graphics/mathcolor.ltx
-INPUT ./cv_eng.out
-INPUT ./cv_eng.out
-INPUT cv_eng.out
-INPUT cv_eng.out
-INPUT ./cv_eng.out
-INPUT ./cv_eng.out
-OUTPUT cv_eng.out
-OUTPUT cv_eng.pdf
+INPUT ./cv.out
+INPUT ./cv.out
+INPUT cv.out
+INPUT cv.out
+INPUT ./cv.out
+INPUT ./cv.out
+OUTPUT cv.out
+OUTPUT cv.pdf
 INPUT c:/texlive/2025/texmf-dist/fonts/tfm/adobe/helvetic/phvr8t.tfm
 INPUT c:/texlive/2025/texmf-dist/fonts/tfm/adobe/helvetic/phvb8t.tfm
 INPUT c:/texlive/2025/texmf-dist/fonts/tfm/adobe/helvetic/phvr8t.tfm
@@ -120,6 +120,7 @@ INPUT c:/texlive/2025/texmf-dist/tex/latex/psnfss/ts1phv.fd
 INPUT c:/texlive/2025/texmf-dist/tex/latex/psnfss/ts1phv.fd
 INPUT c:/texlive/2025/texmf-dist/tex/latex/psnfss/ts1phv.fd
 INPUT c:/texlive/2025/texmf-dist/fonts/tfm/adobe/helvetic/phvr8c.tfm
+INPUT c:/texlive/2025/texmf-dist/fonts/tfm/adobe/helvetic/phvro8t.tfm
 INPUT c:/texlive/2025/texmf-dist/fonts/vf/adobe/helvetic/phvb8t.vf
 INPUT c:/texlive/2025/texmf-dist/fonts/tfm/adobe/helvetic/phvb8r.tfm
 INPUT c:/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map
@@ -131,8 +132,11 @@ INPUT c:/texlive/2025/texmf-dist/fonts/tfm/adobe/helvetic/phvb8r.tfm
 INPUT c:/texlive/2025/texmf-dist/fonts/vf/adobe/helvetic/phvb8t.vf
 INPUT c:/texlive/2025/texmf-dist/fonts/tfm/adobe/helvetic/phvb8r.tfm
 INPUT c:/texlive/2025/texmf-dist/fonts/vf/adobe/helvetic/phvr8c.vf
-INPUT cv_eng.aux
-INPUT ./cv_eng.out
-INPUT ./cv_eng.out
+INPUT c:/texlive/2025/texmf-dist/fonts/vf/adobe/helvetic/phvro8t.vf
+INPUT c:/texlive/2025/texmf-dist/fonts/tfm/adobe/helvetic/phvro8r.tfm
+INPUT cv.aux
+INPUT ./cv.out
+INPUT ./cv.out
 INPUT c:/texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb
 INPUT c:/texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb
+INPUT c:/texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb
