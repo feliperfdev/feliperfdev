@@ -52,7 +52,7 @@ Building in public: [Follow me on Threads](https://www.threads.com/@feliper.tech
 
 <b>Studying and applying in personal projects</b>
 
-<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1280px-ISO_C%2B%2B_Logo.svg.png' height=25 width=25 title='C++'> <img src='https://cdn.iconscout.com/icon/free/png-256/free-cmake-logo-icon-svg-download-png-2944790.png' height=25 width=25 title='CMake'/> <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1280px-Python-logo-notext.svg.png' height=25 width=25 title='Python' /> <img src="https://cdn.iconscout.com/icon/free/png-256/free-grafana-logo-icon-svg-download-png-2944910.png" height=25 width=25 title='Grafana' />
+<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1280px-ISO_C%2B%2B_Logo.svg.png' height=25 width=25 title='C++'> <img src='https://cdn.iconscout.com/icon/free/png-256/free-cmake-logo-icon-svg-download-png-2944790.png' height=25 width=25 title='CMake'/> <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1280px-Python-logo-notext.svg.png' height=25 width=25 title='Python' /> <img src="https://cdn.iconscout.com/icon/free/png-256/free-grafana-logo-icon-svg-download-png-2944910.png" height=25 width=25 title='Grafana' /> <img src="https://images.icon-icons.com/2415/PNG/512/redis_original_wordmark_logo_icon_146369.png" height=27 width=27 />
 <br/>
 
 </div>
@@ -61,12 +61,15 @@ Building in public: [Follow me on Threads](https://www.threads.com/@feliper.tech
 
 #### **💙 Featured Projects**
 
+- [Shortenkai](https://github.com/feliperfdev/Shortenkai)
+  - Shortenkai is a URL shortener REST API built with ASP.NET Core 10. It generates short codes via SHA-256 hashing, supports optional custom slugs, and persists data in PostgreSQL through Entity Framework Core. Redirect lookups are cached in Redis to minimize database round-trips, and the API is documented via Swagger UI.
+
 - [NullBattle](https://github.com/feliperfdev/NullBatlle)
   - A turn-based Pokémon battle engine written in C++17, faithfully replicating Generation 3 mechanics — damage formula, type effectiveness, speed/priority ordering, and status conditions.
 
 - [Pokémon API](https://github.com/feliperfdev/PokemonTrainersAPI-ASP.NET)
   - A ASP.NET API which I developed creating a "Trainer-Pokémon" organization system by team parties and PC-Box (Pokémon core game systems).
-  - The project is fully "backended", so it's a ASP.NET API integrated to a PostgreSQL database without any frontend. 
+  - The project is fully "backended", so it's a ASP.NET API integrated to a PostgreSQL database without any frontend.
 
 - [Wander Level](https://www.threads.com/@feliper.tech/post/DTS_R-ckWtB?xmt=AQF0H7e8doDmwnBewqo3sGzInWYm9NKoPsUngEu9vXq9wA)
   - A Micro-SaaS mobile app I'm developing at the moment to gamify vacations tracking.
