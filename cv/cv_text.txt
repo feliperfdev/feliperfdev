@@ -1,0 +1,55 @@
+FELIPE AZEVEDO RIBEIRO
+Engenheiro de Software Pleno. Visando a Arquitetura de Software e Liderança Técnica
+
+feliper.dev@gmail.com | github.com/feliperfdev | linkedin.com/in/feliperdev | feliperdev.link | (71) 996446771
+
+RESUMO
+Engenheiro de Software Pleno com foco em arquitetura de sistemas mobile e integrações complexas (BLE, protocolos proprietários, plugins multiplataforma). Defino padrões arquiteturais (Clean, Hexagonal, DDD) e tomo decisões técnicas de ponta a ponta, do desenho da solução à entrega, sustentando qualidade com testes, CI/CD e observabilidade. Colaboro ativamente em code reviews e discussões técnicas para elevar o padrão de engenharia dos times em que atuo. Busco evoluir para posições de Arquitetura de Software e/ou Liderança Técnica.
+
+EDUCAÇÃO
+Engenharia de Computação — Universidade SENAI Cimatec — Salvador/BA — 2021–2026
+
+HABILIDADES
+- Arquitetura & Liderança Técnica: Clean Architecture, Hexagonal Architecture, MVVM, DDD, Design de Sistemas, ADRs, Code Review, Mentoria técnica, TDD
+- Mobile: Flutter, Dart, BLoC, Provider, Riverpod, MobX, Drift ORM, Secure Storage, Geolocalização, Flutter Web, interoperabilidade Android/Kotlin, Jetpack Compose, Swift e SwiftUI, Push Notifications (FCM), Offline-first, Cache
+- Backend: ASP.NET (Entity Framework), Node.js, TypeScript, Express.js, NestJS
+- Cloud/DevOps: AWS Lambda, API Gateway, DynamoDB, Cognito, Docker, CI/CD, GitHub Actions, Fastlane
+- Dados: PostgreSQL, Supabase, Firebase, MySQL, SQLite, Redis
+- Integrações & Qualidade: REST APIs, gRPC, Protocol Buffers, Unit/Widget Tests, Sentry, Mixpanel, Firebase Crashlytics, Grafana
+- Design: Figma, Rive, Lottie
+- Idiomas: Português (Nativo), Inglês (B2)
+
+EXPERIÊNCIA PROFISSIONAL
+
+Engenheiro de Software FullStack | CSMTec | Jan. 2026–atual
+- Arquitetei plugins Flutter multiplataforma no padrão Federated Plugin, implementando comunicação nativa via MethodChannel com bridges em Kotlin (Android) e Swift (iOS) para exposição de APIs nativas ao ambiente Dart
+- Defini a arquitetura da camada de integração multi-protocolo para dispositivos médicos (BLE, USB Serial, protocolos proprietários), incluindo abstração de drivers e o pipeline de ingestão de dados em tempo real
+- Projetei a arquitetura de scan, conexão e troca de dados de wearables via BLE (CoreBluetooth no iOS, BluetoothGatt no Android), solucionando problemas críticos de reconexão em background
+- Desenvolvimento de aplicativos móveis nativos com Jetpack Compose (Android) e SwiftUI (iOS)
+
+Engenheiro de Software | F.R Dev | 2024–2025
+- Projetei e desenvolvi, de ponta a ponta, múltiplos Micro-SaaS web e mobile (Flutter + backend serverless AWS/Supabase), definindo a arquitetura DDD/hexagonal e estratégias offline-first com sincronização, sync-queue e caching.
+- Construí APIs REST com Node.js e Express.js priorizando segurança e escalabilidade.
+- Implantei CI/CD, testes unitários/widgets e Docker, elevando a confiabilidade e a velocidade de releases.
+- Assegurei fidelidade pixel-perfect ao design e otimizou performance, monitorando tempo de resposta e consumo de memória.
+
+Desenvolvedor Mobile | Petize | 2023–2025
+- Apliquei Arquitetura Hexagonal e estruturei a aplicação com Flutter Modular (rotas e injeção de dependências), reduzindo acoplamento entre camadas.
+- Implementei o padrão BLoC para gerenciamento de estado, com separação clara entre apresentação, regra de negócio e acesso a dados; otimizei animações (Slivers, Lottie) garantindo 60fps consistentes.
+- Garanti qualidade com TDD e BDD, monitorando cobertura, complexidade ciclomática e code smells via SonarQube — reduzindo bugs em produção.
+- Automatizei o pipeline de releases (Fastlane + CI/CD) e liderei integrações de REST APIs, Firebase Realtime Database e push notifications (FCM); implementei internacionalização (i18n) para suporte a múltiplos idiomas.
+- Revisei Pull Requests recorrentemente em ambiente Scrum, contribuindo para padronização de código e melhoria contínua da equipe.
+
+Desenvolvedor Mobile (Estágio) | Ommed | Mar–Ago 2021
+- Participei de decisões de arquitetura e escolha de pacotes do time, alinhando protótipo e backlog em reuniões semanais com o time mobile e o time geral do projeto.
+- Implementei Clean Architecture + MVVM com testes de unidade em features críticas, estruturando o app com Flutter Modular (rotas e injeção de dependências).
+- Estabeleci comunicação com APIs externas e entre microsserviços via gRPC/Protocol Buffers, integrando-as às demais camadas do app.
+- Gerenciei estado complexo com MobX e fluxos assíncronos reativos, para Android e iOS.
+- Conduzi migração de dependências de teste (Mockito → Mocktail) e versionamento com Git/Gitflow.
+
+PROJETOS
+- Flutter4Noobs — Projeto open-source de ensino de Flutter, 146 estrelas no GitHub; curadoria de conteúdo e mentoria técnica para a comunidade dev via pull requests.
+- Shortenkai — REST API de encurtador de URL desenvolvida com ASP.NET Core 10, PostgreSQL e Redis.
+- KeepLinked & Aibum — Micro-SaaS Flutter com backend Supabase/Express.js: organização de links (pastas/tags/privacidade) e geração de imagens para colorir.
+- Wander Level — App mobile offline-first com sync-queue. Flutter; Drift ORM; Supabase.
+- FinanceTracker — App mobile para finanças pessoais. Flutter; backend AWS (DynamoDB, Lambda, Cognito).
