@@ -48,6 +48,7 @@ Engenheiro de Software Pleno com foco em arquitetura de sistemas mobile e integr
 
 \section*{Educação}
 
+\textbf{Pós Graduação - Tech Management} — FIAP — Out. 2026–Jul. 2027 (em andamento)\\
 \textbf{Engenharia de Computação} — Universidade SENAI Cimatec — Salvador/BA — 2021–2026
 
 \section*{Habilidades}
@@ -55,7 +56,7 @@ Engenheiro de Software Pleno com foco em arquitetura de sistemas mobile e integr
 \begin{itemize}[leftmargin=*, itemsep=1pt]
     \item \textbf{Arquitetura \& Lideran\c{c}a T\'ecnica:} Clean Architecture, Hexagonal Architecture, MVVM, DDD, Design de Sistemas, ADRs, Code Review, Mentoria técnica, TDD
     \item \textbf{Mobile:} Flutter, Dart, BLoC, Provider, Riverpod, MobX, Drift ORM, Secure Storage, Geolocalização, Flutter Web, interoperabilidade Android/Kotlin, Jetpack Compose, Swift e SwiftUI, Push Notifications (FCM), Offline-first, Cache
-    \item \textbf{Backend:} ASP.NET (Entity Framework), Node.js, TypeScript, Express.js, NestJS
+    \item \textbf{Backend:} ASP.NET (Entity Framework), Kotlin (Ktor), Node.js, TypeScript, Express.js, NestJS
     \item \textbf{Cloud/DevOps:} AWS Lambda, API Gateway, DynamoDB, Cognito, Docker, CI/CD, GitHub Actions, Fastlane
     \item \textbf{Dados:} PostgreSQL, Supabase, Firebase, MySQL, SQLite, Redis
     \item \textbf{Integrações \& Qualidade:} REST APIs, gRPC, Protocol Buffers, Unit/Widget Tests, Sentry, Mixpanel, Firebase Crashlytics, Grafana
@@ -69,9 +70,11 @@ Engenheiro de Software Pleno com foco em arquitetura de sistemas mobile e integr
 
 \begin{itemize}[leftmargin=*, itemsep=1pt]
     \item Arquitetei plugins Flutter multiplataforma no padrão Federated Plugin, implementando comunicação nativa via MethodChannel com bridges em Kotlin (Android) e Swift (iOS) para exposição de APIs nativas ao ambiente Dart
-    \item Defini a arquitetura da camada de integração multi-protocolo para dispositivos médicos (BLE, USB Serial, protocolos proprietários), incluindo abstração de drivers e o pipeline de ingestão de dados em tempo real
+    \item Defini a arquitetura da camada de integração multi-protocolo para dispositivos médicos (BLE, USB Serial, protocolos proprietários), incluindo abstração de drivers e o pipeline de captura e sincronização de dados de sensores em tempo real
     \item Projetei a arquitetura de scan, conexão e troca de dados de wearables via BLE (CoreBluetooth no iOS, BluetoothGatt no Android), solucionando problemas críticos de reconexão em background
-    \item Desenvolvimento de aplicativos móveis nativos com Jetpack Compose (Android) e SwiftUI (iOS)
+    \item Desenvolvi APIs REST com Ktor para comunicação entre dispositivos em rede local, otimizando latência e aplicando estratégias de resiliência para cenários de instabilidade de rede
+    \item Arquitetei a bridge entre Android nativo e WebView via JavascriptInterface, viabilizando comunicação bidirecional Kotlin $\leftrightarrow$ JavaScript
+    \item Implementei Android Services para tarefas em background, garantindo continuidade de processamento ao longo do ciclo de vida da aplicação; desenvolvi apps nativos com Jetpack Compose (Android) e SwiftUI (iOS)
 \end{itemize}
 
 \subsection*{Engenheiro de Software | F.R Dev | 2024–2025}
@@ -106,7 +109,8 @@ Engenheiro de Software Pleno com foco em arquitetura de sistemas mobile e integr
 \section*{Projetos}
 \begin{itemize}[leftmargin=*, itemsep=1pt]
     \item Flutter4Noobs — Projeto open-source de ensino de Flutter, 146 estrelas no GitHub; curadoria de conteúdo e mentoria técnica para a comunidade dev via pull requests.
-    \item Shortenkai - Uma REST API de encurtador de URL desenvolvida com ASP.NET Core 10, PostgreSQL, e Redis.
+    \item Sololy — App mobile \textit{local-first} de rotina para quem mora sozinho. Flutter; MVVM com Provider e DI por rota; SQLite com schema versionado (soft delete, índices parciais, \texttt{CHECK} constraints) e modelagem de recorrência com ocorrências materializadas.
+    \item Shortenkai — Uma REST API de encurtador de URL desenvolvida com ASP.NET Core 10, PostgreSQL, e Redis.
     \item KeepLinked \& Aibum — Micro-SaaS Flutter com backend Supabase/Express.js: organização de links (pastas/tags/privacidade) e geração de imagens para colorir.
     \item Wander Level — App mobile \textit{offline-first} com sync-queue. Flutter; Drift ORM; Supabase;
     \item FinanceTracker — App mobile para finanças pessoais. Flutter; backend AWS (DynamoDB, Lambda, Cognito).

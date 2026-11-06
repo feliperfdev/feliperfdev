@@ -1,8 +1,10 @@
 <img src='assets/header.jpg'/>
 
-Hey! I'm Felipe, a 24-year-old Full-Stack Developer passionate about technology, science, AI, calculus, the geek universe, and everything that involves creativity.
+Hey! I'm Felipe, a 24-year-old Full-Stack Software Engineer passionate about technology, science, AI, calculus, the geek universe, and everything that involves creativity.
 
-I turn ideas into products, whether that means crafting pixel-perfect mobile experiences, building robust APIs, or wiring up the infrastructure that keeps it all running. My toolkit spans from frontend to backend, from databases to DevOps, and I'm always picking up new tools along the way.
+I turn ideas into products, whether that means crafting pixel-perfect mobile experiences, building robust APIs, or wiring up the infrastructure that keeps it all running. Lately I've been diving deep into mobile architecture and complex integrations: BLE devices, native bridges (Kotlin/Swift), and multiplatform Flutter plugins.
+
+I care about architecture (Clean, Hexagonal, DDD), code reviews, and raising the engineering bar of the teams I work with, and I'm growing toward **Software Architecture** and **Tech Leadership** roles.
 
 I share what I learn by writing articles and contributing to the tech community whenever I can.
 
@@ -21,10 +23,11 @@ Building in public: [Follow me on Threads](https://www.threads.com/@feliper.tech
 
 ### **Tech Curiosities**
 
-- 🌱 Currently in a Full-Stack Software Developer role
+- 🌱 Currently a Full-Stack Software Engineer, building medical-device integrations (BLE, USB Serial, proprietary protocols) and Flutter federated plugins with native Kotlin/Swift bridges
+- 🎓 Postgraduate in **Tech Management** at FIAP (in progress) · B.Eng. in **Computer Engineering** at SENAI Cimatec
 - 📫 Contact: feliper.dev@gmail.com
 - 📝 Articles and tutorials on [dev.to](https://dev.to/feliperfdev)
-- 📖 Currently reading: **The Pragmatic Programmer - Andrew Hunt**
+- 📖 Currently reading: **Designing Data-Intensive Applications - Martin Kleppmann**
 
 ---
 
@@ -37,7 +40,7 @@ Building in public: [Follow me on Threads](https://www.threads.com/@feliper.tech
 
 <b>Backend & Databases</b>
 
-<img src='assets/csharp.svg' height=28 title='C#'/> <img src='assets/dotnet.svg' height=28 title='.NET'/> <img src='assets/firebase.png' width=25 height=25 title='Firebase'> <img src='https://cdn.prod.website-files.com/65b8ffaaefde00838ae3ae69/672e13438ef3d48e25352267_iZw5Y1-b3BVfXjrXxhZ63dCufG5gZQoAa7VQav_gvSc.png' height=25 width=25 title='Supabase'/> <img src='assets/mysql.png' width=20 height=30 title='MySQL'> <img src='assets/postgresql.svg' height=25 title='PostgreSQL'/> <img src='assets/sqlite.png' width=25 height=25 title='SQLite'> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1280px-GraphQL_Logo.svg.png" height=25 title='GraphQL'>
+<img src='assets/csharp.svg' height=28 title='C#'/> <img src='assets/dotnet.svg' height=28 title='.NET'/> <img src='assets/kotlin.png' width=20 height=20 title='Kotlin (Ktor)'> <img src='assets/firebase.png' width=25 height=25 title='Firebase'> <img src='https://cdn.prod.website-files.com/65b8ffaaefde00838ae3ae69/672e13438ef3d48e25352267_iZw5Y1-b3BVfXjrXxhZ63dCufG5gZQoAa7VQav_gvSc.png' height=25 width=25 title='Supabase'/> <img src='assets/mysql.png' width=20 height=30 title='MySQL'> <img src='assets/postgresql.svg' height=25 title='PostgreSQL'/> <img src='assets/sqlite.png' width=25 height=25 title='SQLite'> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1280px-GraphQL_Logo.svg.png" height=25 title='GraphQL'>
 
 <b>Devops & Infrastructure</b>
 
@@ -60,6 +63,10 @@ Building in public: [Follow me on Threads](https://www.threads.com/@feliper.tech
 ---
 
 #### **💙 Featured Projects**
+
+- **Sololy** _(in development)_
+  - A local-first mobile app for people who live alone to manage their daily routine, with no punitive gamification and no streaks.
+  - Built with **Flutter**, MVVM with **Provider** and per-route DI, **SQLite** with a versioned schema (soft delete, partial indexes, CHECK constraints) and recurrence modeling with materialized occurrences.
 
 - [Shortenkai](https://github.com/feliperfdev/Shortenkai)
   - Shortenkai is a URL shortener REST API built with ASP.NET Core 10. It generates short codes via SHA-256 hashing, supports optional custom slugs, and persists data in PostgreSQL through Entity Framework Core. Redirect lookups are cached in Redis to minimize database round-trips, and the API is documented via Swagger UI.
